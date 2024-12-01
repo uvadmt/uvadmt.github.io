@@ -1,0 +1,23 @@
+baseURL = 'https://uvadmt.github.io/'
+languageCode = 'en-us'
+title = 'cs2120: Discrete Mathematics and Theory 1'
+theme = "dmt"
+
+canonifyurls = true
+
+pygmentsUseClasses=true
+
+[markup.goldmark.renderer]
+unsafe= true
+
+
+[params]
+author = ""
+shortTitle = "cs2120: DMT1"
+introDescription = "cs2120: Discrete Math and Theory 1"
+fullTitle = "cs2120: Discrete Math and Theory 1"
+university = "University of Virginia"
+semester = "Spring 2025"
+
+[social]
+
