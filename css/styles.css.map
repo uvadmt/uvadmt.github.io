@@ -3,16 +3,16 @@
 	"file": "styles.css",
 	"sourceRoot": "/Users/evans/uvadmt.github.io/src",
 	"sources": [
-		"themes/dmt/assets/sass/main.sass",
-		"themes/dmt/assets/sass/_variables.sass",
-		"themes/dmt/assets/sass/_override.sass",
-		"themes/dmt/assets/sass/_fonts.sass",
-		"themes/dmt/assets/sass/_base.sass",
-		"themes/dmt/assets/sass/_components.sass",
-		"themes/dmt/assets/sass/_utils.sass",
-		"themes/dmt/assets/sass/_mobile.sass",
-		"themes/dmt/assets/sass/_syntax.sass",
-		"themes/dmt/assets/sass/_custom.sass"
+		"themes/dmt-old/assets/sass/main.sass",
+		"themes/dmt-old/assets/sass/_variables.sass",
+		"themes/dmt-old/assets/sass/_override.sass",
+		"themes/dmt-old/assets/sass/_fonts.sass",
+		"themes/dmt-old/assets/sass/_base.sass",
+		"themes/dmt-old/assets/sass/_components.sass",
+		"themes/dmt-old/assets/sass/_utils.sass",
+		"themes/dmt-old/assets/sass/_mobile.sass",
+		"themes/dmt-old/assets/sass/_syntax.sass",
+		"themes/dmt-old/assets/sass/_custom.sass"
 	],
 	"sourcesContent": [
 		"$baseURL: 'https://uvadmt.github.io/';\n$fontsPath: '../fonts/';\n$imagesPath: '../images/';\n$iconsPath: '../icons/';\n@import 'variables';\n@import 'override';\n@import 'fonts';\n@import 'base';\n@import 'components';\n@import 'utils';\n@import 'mobile';\n@import 'syntax';\n@import 'custom';\n",

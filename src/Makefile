@@ -3,7 +3,7 @@
 ###
 
 GITHUB_PAGES_BRANCH=gh-pages
-THEME = dmt
+THEME = dmt-old
 
 MARKDOWN = python3 -m markdown
 
