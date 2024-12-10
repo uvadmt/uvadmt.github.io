@@ -38,7 +38,7 @@ The course will mostly cover the first part of this book (Chapters 1-8), and som
 
 **Teachers:**
 [David Evans](https://www.cs.virginia.edu/evans) (evans@virginia.edu, <a href="https://www.cs.virginia.edu/evans/office">Rice 507</a>) and 
-[Aidan San]() (TODO).
+[Aidan San](https://aidansan.github.io/) (aws9xm@virginia.edu).
 
 You can reach both of us using [TODO](mailto://TODO"). Please use that address for course-related messages and one of us will respond.
 
