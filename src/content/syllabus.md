@@ -151,6 +151,15 @@ response within 24 hours.
   questions or things to discuss with the course staff, please do this
   by emailing TODO. 
 
+### Early Submissions
+Each problem set will have a stated deadline. Additionally, for students who submit more than 24 hours before the deadline, there is a small bonus. The following listed point values are out of a total of 100 points for the assignment.:
+
+At least 48 hours early: +5 point bonus (For a total of +10)
+At least 24 hours early: +5 point bonus
+On time: no bonus
+
+Only your last submission will be graded. 
+
 ## Assignments and Exams
 
 ### THIS IS ALL FROM CS3120 SYLLABUS, needs updating
