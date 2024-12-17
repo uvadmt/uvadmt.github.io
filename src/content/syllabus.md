@@ -160,6 +160,21 @@ On time: no bonus
 
 Only your last submission will be graded. 
 
+### Generative AI (e.g. ChatGPT)
+Use of generative AI on problem sets is encouraged after attempting the problem sets by yourself.
+
+Encouraged usages of GenAI:
+- Can you provide some examples of power sets?
+- How to I write a "x squared for all x in the natural numbers" in latex?
+- Can you check my proof? {Proof goes here}
+- TODO need to check that this is actually good: I am solving a proof for x and I have done, y and z. What is the next step in the proof?
+
+Discouraged usages of GenAI:
+- Write a proof for x.
+
+### Collaboration
+Colloboration with other students on problem sets is encouraged. 
+TODO EXPAND
 ## Assignments and Exams
 
 ### THIS IS ALL FROM CS3120 SYLLABUS, needs updating
