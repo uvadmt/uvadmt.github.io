@@ -151,8 +151,22 @@ response within 24 hours.
   questions or things to discuss with the course staff, please do this
   by emailing TODO. 
 
+Who to contact for different types of issues:
+
+To discuss:
+
+| Topic                              | Contact Method                            |
+| ---------------------------------- | ----------------------------------------- |
+| Questions about course topics      | In-class questions, Office Hours, Discord |
+| Questions about grading            | Regrade requests through Gradescope       |
+| Help with problem sets             | In-class questions, Office Hours, Discord |
+| Missing Exams                      | Course Email (before the exam)            |
+| Extension requests for problem sets | ?                                        |
+| Personal issues impacting coursework (labs, exams, etc...) | Your dean, and/or private email to course email or your instructor |
+| Conversations about mentoring, research, student life, etc. | Office Hours or schedule one-on-one visit with instructor |
+
 ### Early Submissions
-Each problem set will have a stated deadline. Additionally, for students who submit more than 24 hours before the deadline, there is a small bonus.:
+Each problem set will have a stated deadline. Additionally, for students who submit more than 24 hours before the deadline, there is a small bonus to the assignment:
 
 | Last Submission Time         | Bonus                                     |
 | ---------------------------- | ----------------------------------------- |
