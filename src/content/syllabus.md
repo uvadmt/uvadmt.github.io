@@ -194,6 +194,14 @@ Colloboration with other students on problem sets is encouraged.
 TODO EXPAND
 ## Assignments and Exams
 
+## Additional help
+If you are struggling with the course we highly encourage you to utilize instructor and TA office hours.
+For additional help, the engineering school also provides tutors (https://engineering.virginia.edu/undergraduate-study/student-support/tutoring).
+If you are struggling with personal issues we encourage you to talk to your academic dean or SDAC if appropriate (https://www.studenthealth.virginia.edu/student-disability-access-center).
+
+
+
+
 ### THIS IS ALL FROM CS3120 SYLLABUS, needs updating
 
 
