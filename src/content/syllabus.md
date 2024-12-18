@@ -38,7 +38,7 @@ The course will mostly cover the first part of this book (Chapters 1-8), and som
 
 **Teachers:**
 [David Evans](https://www.cs.virginia.edu/evans) (evans@virginia.edu, <a href="https://www.cs.virginia.edu/evans/office">Rice 507</a>) and 
-[Aidan San]() (TODO).
+[Aidan San](https://aidansan.github.io/) (aws9xm@virginia.edu).
 
 You can reach both of us using [TODO](mailto://TODO"). Please use that address for course-related messages and one of us will respond.
 
@@ -151,7 +151,56 @@ response within 24 hours.
   questions or things to discuss with the course staff, please do this
   by emailing TODO. 
 
+Who to contact for different types of issues:
+
+To discuss:
+
+| Topic                              | Contact Method                            |
+| ---------------------------------- | ----------------------------------------- |
+| Questions about course topics      | In-class questions, Office Hours, Discord |
+| Questions about grading            | Regrade requests through Gradescope       |
+| Help with problem sets             | Office Hours, Discord                     |
+| Missing Exams                      | Course Email (before the exam)            |
+| Extension requests for problem sets | ?                                        |
+| Personal issues impacting coursework (labs, exams, etc...) | Your dean, and/or private email to course email or your instructor |
+| Conversations about mentoring, research, student life, etc. | Office Hours or schedule one-on-one visit with instructor |
+
+### Early Submissions
+Each problem set will have a stated deadline. Additionally, for students who submit more than 24 hours before the deadline, there is a small bonus to the assignment:
+
+| Last Submission Time         | Bonus                                     |
+| ---------------------------- | ----------------------------------------- |
+| At least 48 hours early      | +5% bonus (for a total of +10%)       |
+| At least 24 hours early      | +5% bonus                            |
+| On time                      | No bonus                                  |
+
+
+Only your last submission will be graded. 
+
+### Generative AI (e.g. ChatGPT)
+Use of generative AI on problem sets is encouraged after attempting the problem sets by yourself.
+
+Encouraged usages of GenAI:
+- Can you provide some examples of power sets?
+- How to I write a "x squared for all x in the natural numbers" in latex?
+- Can you check my proof? {Proof goes here}
+- TODO need to check that this is actually good: I am solving a proof for x and I have done, y and z. What is the next step in the proof?
+
+Discouraged usages of GenAI:
+- Write a proof for x.
+
+### Collaboration
+Colloboration with other students on problem sets is encouraged. 
+TODO EXPAND
 ## Assignments and Exams
+
+## Additional help
+If you are struggling with the course we highly encourage you to utilize instructor and TA office hours.
+For additional help, the engineering school also provides tutors (https://engineering.virginia.edu/undergraduate-study/student-support/tutoring).
+If you are struggling with personal issues we encourage you to talk to your academic dean or SDAC if appropriate (https://www.studenthealth.virginia.edu/student-disability-access-center).
+
+
+
 
 ### THIS IS ALL FROM CS3120 SYLLABUS, needs updating
 
