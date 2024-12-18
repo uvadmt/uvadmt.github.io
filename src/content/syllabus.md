@@ -152,11 +152,14 @@ response within 24 hours.
   by emailing TODO. 
 
 ### Early Submissions
-Each problem set will have a stated deadline. Additionally, for students who submit more than 24 hours before the deadline, there is a small bonus. The following listed point values are out of a total of 100 points for the assignment.:
+Each problem set will have a stated deadline. Additionally, for students who submit more than 24 hours before the deadline, there is a small bonus.:
 
-At least 48 hours early: +5 point bonus (For a total of +10)
-At least 24 hours early: +5 point bonus
-On time: no bonus
+| Last Submission Time         | Bonus                                     |
+| ---------------------------- | ----------------------------------------- |
+| At least 48 hours early      | +5% bonus (for a total of +10%)       |
+| At least 24 hours early      | +5% bonus                            |
+| On time                      | No bonus                                  |
+
 
 Only your last submission will be graded. 
 
