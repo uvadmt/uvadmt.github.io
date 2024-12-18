@@ -159,7 +159,7 @@ To discuss:
 | ---------------------------------- | ----------------------------------------- |
 | Questions about course topics      | In-class questions, Office Hours, Discord |
 | Questions about grading            | Regrade requests through Gradescope       |
-| Help with problem sets             | In-class questions, Office Hours, Discord |
+| Help with problem sets             | Office Hours, Discord                     |
 | Missing Exams                      | Course Email (before the exam)            |
 | Extension requests for problem sets | ?                                        |
 | Personal issues impacting coursework (labs, exams, etc...) | Your dean, and/or private email to course email or your instructor |
