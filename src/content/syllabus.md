@@ -19,18 +19,21 @@ This is a draft of the syllabus which is not yet finalized for Spring 2025. It i
 
 **Unofficial Course Description.** Our course will match the official description, but the core goal of this course is to help students to understand, explain, and apply the foundational mathematical concepts at the core of computer science. The course has two main purposes:
 
-1. Develop your ability to think and communicate in a clear, mathematical way. We hope this will be useful throughout your life, but essential to becoming a strong computer scientist.
+1. Develop your ability to _think_ and _communicate_ in a clear, mathematical way. We hope this will be useful throughout your life, but it is essential to becoming a strong computer scientist.
 
-2. Introduce and gain understanding of the mathematical objects, definitions, notations, and techniques that will be essential for later computing courses where they will be used to reason about and develop algorithms, prove properties about programs, and understand the limits of different models of computation.</p>
+2. Introduce and gain understanding of the _mathematical objects_, _definitions_, _notations_, and _techniques_ that will be essential for later computing courses where they will be used to reason about and develop algorithms, prove properties about programs, and understand the limits of different models of computation.</p>
 
 **Expected Background.** Students entering the course are expected to have some experience with computer science including what is typically covered in a programming-focused first computing course such as cs 1110. You should be able to read and reason about short programs, and have a high-level undersanding of how programs execute. Students are also expected to have reasonable high school math background, but we do not assume background in calculus and rarely use any math beyond addition, subtraction, multiplication, exponentiation, and algebra.
 
 **Materials.** The primary textbook is:
 
-> Eric Lehman, F. Thomson Leighton, and Albert R. Meyer. <a href="../docs/mcs.pdf"><em>Mathematics for Computer Science</em></a>. (2017/6/15 version).  This book is
+> Eric Lehman, F. Thomson Leighton, and Albert R. Meyer. <a href="/docs/mcs.pdf"><em>Mathematics for Computer Science</em></a>. (2018/6/6 version).  This book is
 freely available on-line, and generously released under a <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative
-Commons Attribution-ShareAlike 3.0
+Commons Attribution-ShareAlike 3.0</a> license.
 License</a>.
+
+A web-based version of the textbook is also available from
+<a href="https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_and_Computation_Fundamentals/Mathematics_for_Computer_Science_(Lehman_Leighton_and_Meyer)">LibreTexts</a>. We believe the content is nearly identical to the [PDF version](/docs/mcs.pdf), but cannot guarantee it is entirely consistent.
 
 The course will mostly cover the first part of this book (Chapters 1-8), and some selected materials from later chapters (in particular chapters 9, 15, 17).  In addition to that textbook, we will have selected readings from other sources.
 
@@ -105,13 +108,10 @@ The topics covered in DMT1 focus on developing the mathematical foundation and s
 
 - Mathematical definitions
 - Propositions and proofs using first-order logic
-- Proof methods (including proof by construction, contradiction, and induction)
+- Proof methods (including construction, contradiction, and induction)
 - Logic (Boolean logic, logical formulas, satisfiability, quantifiers)
 - Binary relations
 - Finite and infinite sets
-
-## This is from cs3120 syllabus...all of it needs updated!
-
 
 # Communication
 
@@ -123,11 +123,6 @@ and use the course discord for interactive communications.
 
 **Canvas:** We will use UVA Canvas for managing course assignments. Everyone in the course should be in the canvas course site for their section.
 
-**Course Calendar:** We will keep course deadlines, office hours, and
-  other events on a [public google
-  calendar](TODO). Students
-  are expected to subscribe to this calendar and be aware of deadlines that are posted there. TODO: does this work better in canvas now?
-
 **Discord:** We will use the course discord server for most other
   course communications (you will receive information on joining the
   server by email). We expect students to receive messages we send to
@@ -138,12 +133,11 @@ If you have questions about course materials or assignments that will
 be relevant to other students, please ask them in the `#general`
 channel. This will get the fastest response, since all of the course
 staff and students will see your question there and be able to respond
-to it. We are also working to setup channel for asking questions
-anonymously, and will provide more details on this soon.
+to it. 
 
 Although Discord enables "real time" communication, you should not
 expect instant answers to questions there, but should expect a
-response within 24 hours.
+response within 24 hours. 
 
 **Email:** Managing email for a large class like this is difficult,
   and you should use the course discord for questions about the course
@@ -151,20 +145,20 @@ response within 24 hours.
   questions or things to discuss with the course staff, please do this
   by emailing TODO. 
 
-Who to contact for different types of issues:
 
-To discuss:
+**Contacting Us:** The table below gives some examples of topics and the best contact methods to use.
 
 | Topic                              | Contact Method                            |
 | ---------------------------------- | ----------------------------------------- |
-| Questions about course topics      | In-class questions, Office Hours, Discord |
-| Questions about grading            | Regrade requests through Gradescope       |
-| Help with problem sets             | Office Hours, Discord                     |
-| Missing Exams                      | Course Email (before the exam)            |
-| Extension requests for problem sets | ?                                        |
-| Personal issues impacting coursework (labs, exams, etc...) | Your dean, and/or private email to course email or your instructor |
-| Conversations about mentoring, research, student life, etc. | Office Hours or schedule one-on-one visit with instructor |
+| Questions about course topics      | In-class questions, Instructor and TA Office Hours, Discord |
+| Questions about grading            | Instructor Office Hours, Regrade requests through Gradescope       |
+| Help with problem sets             | Instructor and TA Office Hours, Discord                     |
+| Extension requests for problem sets | Submit the <a href="https://forms.gle/nZ5xQubeWbsss1bc8">Extension Request Form</a>                                       |
+| Slept through a test  | Private email to your instructor |
+| Personal issues impacting coursework | Private email to your instructor |
+| Conversations about mentoring, research, student life, etc. | Office Hours or schedule individual visit |
 
+<!--
 ### Early Submissions
 Each problem set will have a stated deadline. Additionally, for students who submit more than 24 hours before the deadline, there is a small bonus to the assignment:
 
@@ -176,10 +170,10 @@ Each problem set will have a stated deadline. Additionally, for students who sub
 
 
 Only your last submission will be graded. 
+-->
 
-### Generative AI (e.g. ChatGPT)
-Use of generative AI on problem sets is encouraged after attempting the problem sets by yourself.
 
+<!--
 Encouraged usages of GenAI:
 - Can you provide some examples of power sets?
 - How to I write a "x squared for all x in the natural numbers" in latex?
@@ -188,6 +182,7 @@ Encouraged usages of GenAI:
 
 Discouraged usages of GenAI:
 - Write a proof for x.
+-->
 
 ### Collaboration
 Colloboration with other students on problem sets is encouraged. 
@@ -200,16 +195,13 @@ For additional help, the engineering school also provides tutors (https://engine
 If you are struggling with personal issues we encourage you to talk to your academic dean or SDAC if appropriate (https://www.studenthealth.virginia.edu/student-disability-access-center).
 
 
-
-
-### THIS IS ALL FROM CS3120 SYLLABUS, needs updating
-
-
 **Problem Sets.** Most learning in this course is done by working to
   solve problems on your own and in collaboration with others. We will
   have a problem set due most weeks in the course (typically on
-  Mondays at 9:59pm).  See the course calendar for specific due
-  dates. Each problem set will include specific directions for how to
+  TODO).  See the course calendar in Canvas for specific due
+  dates. 
+  
+  Each problem set will include specific directions for how to
   submit your solutions, and we expect students to read and follow
   these carefully. Each problem set will state a clear
   collaboration policy (which typically will allow you to discuss
@@ -217,24 +209,9 @@ If you are struggling with personal issues we encourage you to talk to your acad
   by yourself and understand everything in it) and we trust and expect
   students to follow these policies vigilantly.
 
-**Quizzes.** We will have regular quizzes due most Wednesday at 9:59pm
-  (and posted the day before). These quizzes are designed to be quick
-  ways to check your understanding, and will be (mostly) automatically
-  graded. Quizzes will be done on your own, without using any resources.
+**Tests.** We will have four (TODO:Check) in-class tests scheduled approximately every three weeks throughout the courses. These tests will be designed to check your understanding and ability to solve problems using ideas we have covered in class. They will emphasize material from the prior two problem sets, but may also include reivew questions on earlier class material. Tests will be done on your own, without using any resources other than a permitted single page of notes you prepare that will be permitted for some of the tests.
 
-**Exams.** We will have two exams in the course:
-
-- **Midterm Exam**: In class on **Thursday, 2 March 2023**.
-- **Final Exam**: **Thursday, 11 May, 2:00pm - 5:00pm**.
-
-No collaboration is permitted on the exams. Students may construct a
-one-page (letter-size, two-sided) reference sheet for use during the
-exam, but all other resources are forbidden (no internet, textbook,
-other humans, magnification instruments, etc.). We will provide
-detailed guidelines on what to expect on each exam, but you should
-expect them to focus on the most important concepts covered in the
-course with problems that you should be well perpared to solve if you
-understand the problems from the problem sets well.
+**Final Exam.**  TODO
 
 **Extensions and Late Submissions.** Extensions will be granted to
 individual students on a case-by-case basis. We are more likely to
@@ -242,14 +219,24 @@ respond positively to an extension request if it is made well before
 an assignment is due and provides a reasonable justification for the
 extension. To request an extension, use this form:
 
-   [cs3120 Extension Request Form](https://forms.gle/5HSapzRDRen4V4VA7)
+   [cs2120 Extension Request Form](https://forms.gle/nZ5xQubeWbsss1bc8)
    
 We are sympathetic to situations where a traumatic late event prevents
 you from being able to complete an assignment, and appreciate you
 bringing these to our attention even if the deadline has passed.
 
-If you find that you will be unable to make one of the scheduled
-exams, contact the course instructors immediately.
+Other than the correct interpretation that an assignment submitted by the deadline or by the date given in a granted extension request, our late policy is to not have a late policy. This doesn't mean there is no way to get credit for a late assignment, and even if you have no excuse, it is always better to submit an assignment late than to not submit the assignment at all. Beyond that guideline, we will consider late assignments on a case-by-case basis that takes into account how late the assignment it, whether it is just one late assignment or a habitual problem, and any contextual information provided about the reason for the lateness.
+
+If you find that you will be unable to make one of the scheduled tests or final exam, contact the course instructors immediately.
+
+<a href="classcontribution"></a>**Class Contribution.** TODO
+
+<a name="bonus"></a> **Bonus Points.** We hope students will go beyond
+the provided assignments and do other things to contribute to the
+class as well as beyond. We provide some concrete opportunities for
+this in the form of _Challenge Problems_, but also will award bonus
+points for relevant and creative activities that students invent on
+their own. 
 
 ## Grading
 
@@ -271,36 +258,62 @@ formula that can be used to compute a _lower bound_ on the grade you
 receive in the course:
 
 <center>
-<table class="grades" style="width:85%;">
+<table class="grades" style="width:100%;">
 <thead>
 <tr>
-<th width="60%">Item</th>
-<th width="40%">Standard Weighting</th>
+<th width="40%">&nbsp;</th>
+<th width="60" colspan=3>Approximate Weighting Range</th>
+</tr>
+<tr>
+<th width="40%">Item</th>
+<th width="20%">Minimum</th>
+<th width="20%">Default</th>
+<th width="20%">Maximum</th>
+</tr>
+</td>
 <tbody>
-<tr><td>Problem Sets (10 expected)</td><td style="text-align:center;"><b>42%</b> (but with later assignments counting more)</td></tr>
+<tr>
+<td>Problem Sets (7 expected)*</td>
+<td style="text-align:center;">15%</td>
+<td style="text-align:center;"><b>35%</b></td>
+<td style="text-align:center;">70%</td>
+</tr>
 
-<tr><td>Quizzes (9 expected, with one make-up)</td>
-<td style="text-align:center;"><b>10%</b></td></tr>
+<tr>
+<td>Tests (4 scheduled)</td>
+<td style="text-align:center;">15%</td>
+<td style="text-align:center;"><b>40%</b></td>
+<td style="text-align:center;">80%</td>
+</tr>
 
-<tr><td>Midterm Exam</td>
-<td style="text-align:center;"><b>18%</b></td></br>
+<tr>
+<td>Final Exam</td>
+<td style="text-align:center;">0%</td>
+<td style="text-align:center;"><b>20%</b></td>
+<td style="text-align:center;">80%</td>
+</tr>
 
-<tr><td>Final Exam</td>
-<td style="text-align:center;"><b>30%</b></td>
+<tr>
+<td>Class Contribution</td>
+<td style="text-align:center;">0%</td>
+<td style="text-align:center;"><b>5%</b></td>
+<td style="text-align:center;">50%</td>
+</tr>
+
 </tbody>
 </table>
 </center>
 
 
 With the exception of cases of academic dishonesty or inappropriate
-behavior, we guarantee that you will a grade that is not below the
+behavior, you can be assured that your final grade will not be below the
 grade that would result from computing your score using the
-percentages in the table, where your score for each item is the ratio
+default weightings in the table, where your score for each item is the ratio
 of the score you received to the target score for that item, and the
 grading scale is based on the standard decades (e.g., 0.87 = B+, 0.9 =
 A-, 0.93 = A).
 
-This is a _minimum_ grade, though, and we generally want to assign a
+This is a _minimum_ grade expectation, though, and we generally want to assign a
 grade that reflects the best possible interpretation of all you have
 done during the semester. This means we consider your performance
 throughout the course, and will examine grades using a variety of
@@ -312,7 +325,7 @@ An “A” grade means we are convinced that you can use the material in
 this class to solve new problems and understand it well enough to
 explain most concepts in the class. A “B” grade means we are convinced
 that you understand the main ideas in this class well enough to be
-well prepared for a follow-on course (i.e., one that has this as a
+well prepared for a follow-on course (i.e., DMT2 and other courses that include this course as a
 pre-requisite).
 
 Although the material we cover is challenging, and the pace may seem
@@ -320,14 +333,6 @@ overwhelming at times, we are confident that all students who put
 effort into this class and take good advantage of available help will
 do well.
 
-<a name="bonus"></a> **Bonus Points.** We hope students will go beyond
-the provided assignments and do other things to contribute to the
-class as well as beyond. We provide some concrete opportunities for
-this in the form of _Challenge Problems_, but also will award bonus
-points for relevant and creative activities that students invent on
-their own. We also offer bounty bonuses for contributions to the
-course textbook: having a Pull Request accepted by the author is worth
-bonus points, even if it is just a simple typo fix.
 
 # Honor Expectations
 
@@ -341,7 +346,7 @@ all students at the university deserve to be trusted.
 
 To ensure that expectations are clear to everyone, all students are
 required to read, understand, and sign the course pledge:
-[https://uvatoc.github.io/pledge](https://uvatoc.github.io/pledge).
+[https://uvadmt.github.io/pledge](https://uvadmt.github.io/pledge).
 
 **Collaboration Policy:** We believe it is important for students to
 learn by thinking about problems on their own, so it is expected that
@@ -365,6 +370,16 @@ The collaboration policy will be described on each assignment
   staff. The penalty for policy violations will be considered on a
   case-by-case basis, with a penalty commensurate the severity of the
   offense.
+
+### AI Tools
+
+Use of generative AI tools such as ChatGPT, Claude, and Gemini on problem sets is encouraged, but like any resources you use these should be used in a way that supports your learning, is consistent with the course goals, and is fair to other students. These are powerful tools that can be great assistants and tutors to humans to use them well, and learning when and how to use these tools is itself a valuable skill. 
+
+However, since the goals of the course are to improve your ability as an individual to think mathematically and to understand and be able to use the methods we teach in the class, it would be counterproductive to use any resources, including AI tools, in ways that are counter to these goals. Tools can be used as shortcuts to accomplishing short term goals, such as getting a correct answer to a problem, in ways that are counter to long term goals, such as empowering yourself with new skills and understanding. Getting an answer in a way that depends on using a powerful tool can also be misleading, and make someone think they understand or are capable of doing something on their own without actually developing this. There is also a severe risk today that AI tools will give outputs that are wrong, but with language that seems convincing. Without the deeper understanding needed to interrogate the models well, users are prone to being mislead by incorrect outputs.
+
+If you are not motivated by developing your abilities and gaining an appreciation of the beauty and power or mathematical thinking, though, and only want to maximize your grade while minimizing your effort, you should be aware that the tests to assess your learning in the class will be done in class and without any access to external resources. We want to see what you understand and can do on your own. The way overall grading is done in the course, it will not benefit you to get higher grades on the problem sets by using tools that prevent you from learning what you will need to understand to be able to do well on the assessments.
+
+All assignments in the course will include a collaboration and resource policy which you should read and follow carefully. These will expect you to document any use of AI tools, and include links to transcripts that show your interactions with the tool. We plan to include some demonstrations using AI tools in the class, as well as specific examples of encouraged and inappropriate uses on the problem sets.
 
 # Additional Information
 
