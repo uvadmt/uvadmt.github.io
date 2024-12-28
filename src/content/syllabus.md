@@ -158,6 +158,13 @@ response within 24 hours.
 | Personal issues impacting coursework | Private email to your instructor |
 | Conversations about mentoring, research, student life, etc. | Office Hours or schedule individual visit |
 
+**Getting Help:** If you are struggling with the course we highly encourage you to utilize instructor and TA office hours. We want you to learn well and have a good experience in the course, and are here to help you.
+
+For additional help, the engineering school also provides tutors ([https://engineering.virginia.edu/undergraduate-study/student-support/tutoring](https://engineering.virginia.edu/undergraduate-study/student-support/tutoring)).
+
+If you are struggling with personal issues we encourage you to talk to your academic dean or SDAC if appropriate ([https://www.studenthealth.virginia.edu/student-disability-access-center](https://www.studenthealth.virginia.edu/student-disability-access-center)).
+
+
 <!--
 ### Early Submissions
 Each problem set will have a stated deadline. Additionally, for students who submit more than 24 hours before the deadline, there is a small bonus to the assignment:
@@ -184,16 +191,7 @@ Discouraged usages of GenAI:
 - Write a proof for x.
 -->
 
-### Collaboration
-Colloboration with other students on problem sets is encouraged. 
-TODO EXPAND
 ## Assignments and Exams
-
-## Additional help
-If you are struggling with the course we highly encourage you to utilize instructor and TA office hours.
-For additional help, the engineering school also provides tutors (https://engineering.virginia.edu/undergraduate-study/student-support/tutoring).
-If you are struggling with personal issues we encourage you to talk to your academic dean or SDAC if appropriate (https://www.studenthealth.virginia.edu/student-disability-access-center).
-
 
 **Problem Sets.** Most learning in this course is done by working to
   solve problems on your own and in collaboration with others. We will
@@ -332,7 +330,6 @@ Although the material we cover is challenging, and the pace may seem
 overwhelming at times, we are confident that all students who put
 effort into this class and take good advantage of available help will
 do well.
-
 
 # Honor Expectations
 

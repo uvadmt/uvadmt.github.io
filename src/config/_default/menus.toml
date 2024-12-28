@@ -1,0 +1,48 @@
+[[main]]
+  name = "DMT1"
+  url = ""
+  weight = -110
+
+[[main]]
+  name = "Syllabus"
+  url = "/syllabus/"
+  weight = -109
+
+# Submenus are done this way: parent -> identifier
+[[main]]
+  name = "Classes"
+  url = "/classes/"
+  weight = -108
+
+# [[main]]
+#  parent = "Classes"
+#  name = "LinkedIn"
+#  url = "https://www.linkedin.com/"
+
+# social menu links
+
+[[social]]
+  name = "github"
+  type = "social"
+  weight = 1
+  url = "https://github.com/uvadmt/uvadmt.github.io"
+[[social]]
+  name = "discord"
+  weight = 3
+  url = "https://discord.com/channels/1310721852791984250"
+
+# other supported social links
+# name = "youtube"
+# url = "https://www.youtube.com/#"
+# name = "facebook"
+# url = "https://facebook.com/#"
+# name = "instagram"
+# url = "https://instagram.com/#"
+# name = "stackoverflow"
+# url = "https://stackoverflow.com/#"
+# name = "gitlab"
+# url = "https://gitlab.com/#"
+# name = "discord"
+# url = "https://discord.gg/#"
+# name = "bluesky"
+# url = "https://bsky.app/profile/#"
