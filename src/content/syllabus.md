@@ -195,8 +195,7 @@ Discouraged usages of GenAI:
 
 **Problem Sets.** Most learning in this course is done by working to
   solve problems on your own and in collaboration with others. We will
-  have a problem set due most weeks in the course (typically on
-  TODO).  See the course calendar in Canvas for specific due
+  have a problem set due (typically on Thursdays by 8:29pm) most weeks in the course, except for weeks when there is a test. See the course calendar in Canvas for specific due
   dates. 
   
   Each problem set will include specific directions for how to
@@ -207,9 +206,9 @@ Discouraged usages of GenAI:
   by yourself and understand everything in it) and we trust and expect
   students to follow these policies vigilantly.
 
-**Tests.** We will have four (TODO:Check) in-class tests scheduled approximately every three weeks throughout the courses. These tests will be designed to check your understanding and ability to solve problems using ideas we have covered in class. They will emphasize material from the prior two problem sets, but may also include reivew questions on earlier class material. Tests will be done on your own, without using any resources other than a permitted single page of notes you prepare that will be permitted for some of the tests.
+**Tests.** We will have four in-class tests scheduled approximately every three weeks throughout the courses. These tests will be designed to check your understanding and ability to solve problems using ideas we have covered in class. They will emphasize material from the prior two problem sets, but will also include reivew questions on earlier class material. Tests will be done on your own, without using any resources other than a permitted single page of notes you prepare that will be permitted for some of the tests.
 
-**Final Exam.**  TODO
+**Final Exam.**  The final exam, [scheduled by the Registrar](https://registrar.virginia.edu/exam-schedule-spring-2025), is scheduled for Tuesday, May 6, 7:00-10:00 PM. Depending on your performance, you the final _might_ be optional for you, but until you hear otherwise, you should assume you will need to take a final as scheduled. The final exam will be a valuable opportunity for students to demonstrate what they have learned throughout the course.
 
 **Extensions and Late Submissions.** Extensions will be granted to
 individual students on a case-by-case basis. We are more likely to
@@ -217,8 +216,11 @@ respond positively to an extension request if it is made well before
 an assignment is due and provides a reasonable justification for the
 extension. To request an extension, use this form:
 
+<center>
+
    [cs2120 Extension Request Form](https://forms.gle/nZ5xQubeWbsss1bc8)
-   
+</center>
+
 We are sympathetic to situations where a traumatic late event prevents
 you from being able to complete an assignment, and appreciate you
 bringing these to our attention even if the deadline has passed.
@@ -227,14 +229,7 @@ Other than the correct interpretation that an assignment submitted by the deadli
 
 If you find that you will be unable to make one of the scheduled tests or final exam, contact the course instructors immediately.
 
-<a href="classcontribution"></a>**Class Contribution.** TODO
-
-<a name="bonus"></a> **Bonus Points.** We hope students will go beyond
-the provided assignments and do other things to contribute to the
-class as well as beyond. We provide some concrete opportunities for
-this in the form of _Challenge Problems_, but also will award bonus
-points for relevant and creative activities that students invent on
-their own. 
+<a href="classcontribution"></a>**Class Contribution.** There are many ways for students to contribute to the class, and we value any contributions that improve the learning and experience of yourself, other students, and the instructors. This can include being an engaged and active participant in class, but also includes sending the instructors useful feedback (including on things like a broken link or error in class materials), asking and answering questions in the discord, solving or attempting to solve "Challenge Problems", helping other students, and other things you do to contribute to the class. For a large class like this, the instructors will be aware of some things you do but may not be aware of all of them, so you'll have an opportunity near the end of the semester to explain how you contributed to the class.
 
 ## Grading
 
@@ -342,8 +337,7 @@ else is trustworthy. The course staff starts with the assumption that
 all students at the university deserve to be trusted. 
 
 To ensure that expectations are clear to everyone, all students are
-required to read, understand, and sign the course pledge:
-[https://uvadmt.github.io/pledge](https://uvadmt.github.io/pledge).
+required to read, understand, and agree to [the course pledge](/pledge).
 
 **Collaboration Policy:** We believe it is important for students to
 learn by thinking about problems on their own, so it is expected that
@@ -392,8 +386,7 @@ All assignments in the course will include a collaboration and resource policy w
   observance and consider family obligations, personal crises, and
   extraordinary opportunities to all be potentially valid reasons for
   accomodations.  Students who wish to request accommodations should
-  submit their request to Prof. Mahmoody or Prof. Evans as far in
-  advance as possible.
+  submit their request to their instructor as far in advance as possible.
 
 If you have questions or concerns about the University policy on
   academic accommodations for religious observance or religious
