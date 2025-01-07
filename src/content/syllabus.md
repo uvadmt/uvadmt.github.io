@@ -52,8 +52,7 @@ You can reach both of us using [TODO](mailto://TODO"). Please use that address f
 - 10:00-10:50am on Mondays, Wednesdays, and Fridays in Olsson Hall 120 (David Evans)
 - 2:00-2:50pm on Mondays, Wednesdays, and Fridays in Rice Hall 130 (Aidan San)
 
-On exam days, you must attend your registered lecture section. 
-On non-exam days, you may attend attend whichever lecture section you prefer (as long as there are enough classroom seats). Note that either lecture section might be slightly ahead of the other, so we recommend that you consistently attend 1 section.
+On days with tests or in-class activities, you must attend your registered lecture section unless you make prior arrangements with the instructors. On other days, you may attend attend whichever lecture section you prefer or even both (as long as there are enough classroom seats). Note that although we will generally cover the same material in casses, the one section might be slightly ahead of the other or do things in slightly different orders, so we recommend that you consistently attend the section in which you are registered.
 
 <!--
 
@@ -251,10 +250,6 @@ receive in the course:
 <table class="grades" style="width:100%;">
 <thead>
 <tr>
-<th width="40%">&nbsp;</th>
-<th width="60" colspan=3>Approximate Weighting Range</th>
-</tr>
-<tr>
 <th width="40%">Item</th>
 <th width="20%">Default</th>
 </tr>
@@ -305,8 +300,7 @@ An “A” grade means we are convinced that you can use the material in
 this class to solve new problems and understand it well enough to
 explain most concepts in the class. A “B” grade means we are convinced
 that you understand the main ideas in this class well enough to be
-well prepared for a follow-on course (i.e., DMT2 and other courses that include this course as a
-pre-requisite).
+well prepared for a follow-on course (i.e., DMT2 and other courses that include this course as a pre-requisite).
 
 Although the material we cover is challenging, and the pace may seem
 overwhelming at times, we are confident that all students who put
