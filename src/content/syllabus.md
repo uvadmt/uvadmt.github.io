@@ -52,7 +52,8 @@ You can reach both of us using [TODO](mailto://TODO"). Please use that address f
 - 10:00-10:50am on Mondays, Wednesdays, and Fridays in Olsson Hall 120 (David Evans)
 - 2:00-2:50pm on Mondays, Wednesdays, and Fridays in Rice Hall 130 (Aidan San)
 
-TODO: do we need to say anything about attending the right section?
+On exam days, you must attend your registered lecture section. 
+On non-exam days, you may attend attend whichever lecture section you prefer (as long as there are enough classroom seats). Note that either lecture section might be slightly ahead of the other, so we recommend that you consistently attend 1 section.
 
 <!--
 
@@ -126,7 +127,7 @@ and use the course discord for interactive communications.
 **Discord:** We will use the course discord server for most other
   course communications (you will receive information on joining the
   server by email). We expect students to receive messages we send to
-  the `#general` channel as well as any direct messages we send to you
+  the `#announcements` channel as well as any direct messages we send to you
   on discord. 
 
 If you have questions about course materials or assignments that will
@@ -134,10 +135,6 @@ be relevant to other students, please ask them in the `#general`
 channel. This will get the fastest response, since all of the course
 staff and students will see your question there and be able to respond
 to it. 
-
-Although Discord enables "real time" communication, you should not
-expect instant answers to questions there, but should expect a
-response within 24 hours. 
 
 **Email:** Managing email for a large class like this is difficult,
   and you should use the course discord for questions about the course
@@ -259,38 +256,28 @@ receive in the course:
 </tr>
 <tr>
 <th width="40%">Item</th>
-<th width="20%">Minimum</th>
 <th width="20%">Default</th>
-<th width="20%">Maximum</th>
 </tr>
 </td>
 <tbody>
 <tr>
 <td>Problem Sets (7 expected)*</td>
-<td style="text-align:center;">15%</td>
 <td style="text-align:center;"><b>35%</b></td>
-<td style="text-align:center;">70%</td>
 </tr>
 
 <tr>
 <td>Tests (4 scheduled)</td>
-<td style="text-align:center;">15%</td>
 <td style="text-align:center;"><b>40%</b></td>
-<td style="text-align:center;">80%</td>
 </tr>
 
 <tr>
 <td>Final Exam</td>
-<td style="text-align:center;">0%</td>
 <td style="text-align:center;"><b>20%</b></td>
-<td style="text-align:center;">80%</td>
 </tr>
 
 <tr>
 <td>Class Contribution</td>
-<td style="text-align:center;">0%</td>
 <td style="text-align:center;"><b>5%</b></td>
-<td style="text-align:center;">50%</td>
 </tr>
 
 </tbody>
