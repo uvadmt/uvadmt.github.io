@@ -1,6 +1,6 @@
 +++
 date = "01 Dec 2024"
-draft = true
+draft = false
 title = "Syllabus"
 slug = "syllabus"
 +++
