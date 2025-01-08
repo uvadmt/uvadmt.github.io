@@ -1,11 +1,12 @@
 +++
 date = "01 Dec 2024"
+showdate = false
 draft = false
-title = "Syllabus"
+title = "DMT1 Syllabus"
 slug = "syllabus"
 +++
 
-# Overview
+## Overview
 
 **Official Course Description.** This is the official course description from the [Undergraduate Record](https://web.archive.org/web/20241201222104/https://records.ureg.virginia.edu/preview_course_nopop.php?catoid=61&coid=401199):
 
@@ -104,7 +105,7 @@ The topics covered in DMT1 focus on developing the mathematical foundation and s
 - Binary relations
 - Finite and infinite sets
 
-# Communication
+## Communication
 
 We will primarily use the course website for posting course materials,
 and use the course discord for interactive communications.
@@ -117,11 +118,11 @@ and use the course discord for interactive communications.
 **Discord:** We will use the course discord server for most other
   course communications (you will receive information on joining the
   server by email). We expect students to receive messages we send to
-  the `#announcements` channel as well as any direct messages we send to you
+  the **#announcements** channel as well as any direct messages we send to you
   on discord. 
 
 If you have questions about course materials or assignments that will
-be relevant to other students, please ask them in the `#general`
+be relevant to other students, please ask them in the **#general**
 channel. This will get the fastest response, since all of the course
 staff and students will see your question there and be able to respond
 to it. 
@@ -130,7 +131,7 @@ to it.
   and you should use the course discord for questions about the course
   content that are relevant to all students. If you have personal
   questions or things to discuss with the course staff, please do this
-  by emailing TODO. 
+  by emailing your section instructor. 
 
 
 **Contacting Us:** The table below gives some examples of topics and the best contact methods to use.
