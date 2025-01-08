@@ -5,12 +5,6 @@ title = "Syllabus"
 slug = "syllabus"
 +++
 
-   <div class="yellownote">
-
-This is a draft of the syllabus which is not yet finalized for Spring 2025. It is subject to change until distributed on the first day of class. The course website is managed through a [public github repository](https://github.com/uvadmt/uvadmt.github.io), so you can see past versions there. <!-- The version as posted on the first day of class is [here](https://github.com/uvatoc/uvatoc.github.io/blob/860ed1c214bc1deefbf8d590a7b506f6f01af698/syllabus/index.html). -->
-</div>
-
-
 # Overview
 
 **Official Course Description.** This is the official course description from the [Undergraduate Record](https://web.archive.org/web/20241201222104/https://records.ureg.virginia.edu/preview_course_nopop.php?catoid=61&coid=401199):
