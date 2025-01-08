@@ -43,10 +43,7 @@ The course will mostly cover the first part of this book (Chapters 1-8), and som
 [David Evans](https://www.cs.virginia.edu/evans) (evans@virginia.edu, <a href="https://www.cs.virginia.edu/evans/office">Rice 507</a>) and 
 [Aidan San](https://aidansan.github.io/) (aws9xm@virginia.edu).
 
-You can reach both of us using [TODO](mailto://TODO"). Please use that address for course-related messages and one of us will respond.
-
 <a name="meetings"></a>
-
 **Class Sections:** There are two sections of the course:
 
 - 10:00-10:50am on Mondays, Wednesdays, and Fridays in Olsson Hall 120 (David Evans)
@@ -149,7 +146,7 @@ to it.
 | Questions about course topics      | In-class questions, Instructor and TA Office Hours, Discord |
 | Questions about grading            | Instructor Office Hours, Regrade requests through Gradescope       |
 | Help with problem sets             | Instructor and TA Office Hours, Discord                     |
-| Extension requests for problem sets | Submit the <a href="https://forms.gle/nZ5xQubeWbsss1bc8">Extension Request Form</a>                                       |
+| Extension requests for problem sets | Submit the <a href="/extension">Extension Request Form</a>                                       |
 | Slept through a test  | Private email to your instructor |
 | Personal issues impacting coursework | Private email to your instructor |
 | Conversations about mentoring, research, student life, etc. | Office Hours or schedule individual visit |
@@ -210,11 +207,10 @@ Discouraged usages of GenAI:
 individual students on a case-by-case basis. We are more likely to
 respond positively to an extension request if it is made well before
 an assignment is due and provides a reasonable justification for the
-extension. To request an extension, use this form:
+extension. To request an extension, use the form for your section:
 
 <center>
-
-   [cs2120 Extension Request Form](https://forms.gle/nZ5xQubeWbsss1bc8)
+   [cs2120 Extension Request Form](/extension)
 </center>
 
 We are sympathetic to situations where a traumatic late event prevents
