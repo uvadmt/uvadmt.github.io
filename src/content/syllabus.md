@@ -256,7 +256,7 @@ receive in the course:
 </td>
 <tbody>
 <tr>
-<td>Problem Sets (7 expected)*</td>
+<td>Problem Sets (7 expected)</td>
 <td style="text-align:center;"><b>35%</b></td>
 </tr>
 
