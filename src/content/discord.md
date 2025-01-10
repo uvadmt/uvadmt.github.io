@@ -9,6 +9,7 @@ slug = "discord"
 Click the link to join the course discord:
 <center>
 <b>
+
 [https://discord.gg/8Ua8ZuW7N8](https://discord.gg/8Ua8ZuW7N8)
 </b>
 </center>
