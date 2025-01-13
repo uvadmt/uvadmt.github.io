@@ -13,7 +13,7 @@ slug="class1"
 
 ## Slides
 
-10am Section: [[PDF](https://virginia.box.com/s/thtepzep1xvlvr08e9p9o764gyko5dex)]
+10am Section: [[Slides (PDF)](https://virginia.box.com/s/thtepzep1xvlvr08e9p9o764gyko5dex)] [[Video (UVA Only)](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d4dabd5-9623-417e-b577-b26400f6145d)]
 
 
 
