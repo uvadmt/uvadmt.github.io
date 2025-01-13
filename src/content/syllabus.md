@@ -205,7 +205,7 @@ an assignment is due and provides a reasonable justification for the
 extension. To request an extension, use the form for your section:
 
 <center>
-   [cs2120 Extension Request Form](/extension)
+   <a href="/extension">Extension Request Form</a>
 </center>
 
 We are sympathetic to situations where a traumatic late event prevents
