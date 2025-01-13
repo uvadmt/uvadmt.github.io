@@ -9,10 +9,12 @@ slug="class1"
 
 - Read the [Course Syllabus](/syllabus)
 - **Problem Set 0** is due on Thursday (8:29pm) [[PDF](/docs/ps0.pdf)] [[Overleaf Template](https://www.overleaf.com/read/ctsgckxvvfsf#49bbb2)]
+- Read Chapter 1 of the [MCS Book](/docs/mcs.pdf)
 
 ## Slides
 
-To be added after class.
+10am Section: [[PDF](https://virginia.box.com/s/thtepzep1xvlvr08e9p9o764gyko5dex)]
+
 
 
 
