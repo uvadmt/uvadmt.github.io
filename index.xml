@@ -6,7 +6,38 @@
     <description>Recent content on cs2120: Discrete Mathematics and Theory 1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 2: Truth and Soundness</title>
+      <link>https://uvadmt.github.io/post/class2/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvadmt.github.io/post/class2/</guid>
+      <description>
+        
+          
+            &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Problem Set 0&lt;/strong&gt; is due on Thursday (8:29pm) [&lt;a href=&#34;https://uvadmt.github.io/docs/ps0.pdf&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;https://www.overleaf.com/read/ctsgckxvvfsf#49bbb2&#34;&gt;Overleaf Template&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;Read Chapter 1 of the &lt;a href=&#34;https://uvadmt.github.io/docs/mcs.pdf&#34;&gt;MCS Book&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;class&#34;&gt;Class&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Defense of Analog Computing&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Hard&amp;rdquo; Problems&lt;/li&gt;
+&lt;li&gt;Propositions&lt;/li&gt;
+&lt;li&gt;Booleans&lt;/li&gt;
+&lt;li&gt;Operations on Booleans&lt;/li&gt;
+&lt;li&gt;Inference Rules&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;10am Section: [&lt;a href=&#34;TODO&#34;&gt;Slides (PDF)&lt;/a&gt;] [&lt;a href=&#34;TODO&#34;&gt;Video (UVA Only)&lt;/a&gt;]&lt;br&gt;
+2pm Section: [&lt;a href=&#34;TODO&#34;&gt;Slides (PDF)&lt;/a&gt;] [&lt;a href=&#34;TODO&#34;&gt;Video (UVA Only)&lt;/a&gt;]&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Class 1: What Makes it Go?</title>
       <link>https://uvadmt.github.io/post/class1/</link>
