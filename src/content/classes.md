@@ -10,3 +10,9 @@ title="Classes"
 - Course Logistics
 - Why _discrete_ math?
 
+[Class 2: _Truth and Soundness_](/post/class1) 
+- Defense of Analog Computing
+- "Hard" Problems
+- Propositions
+- Booleans
+- Operations on Booleans
