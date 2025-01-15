@@ -18,8 +18,7 @@ slug="class1"
 - Course Logistics
 - Why _discrete_ math?
 
-10am Section: [[Slides (PDF)](https://virginia.box.com/s/thtepzep1xvlvr08e9p9o764gyko5dex)] [[Video (UVA Only)](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d4dabd5-9623-417e-b577-b26400f6145d)]
-
+10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/4skj6u3fvfvapshy9alxd/cs2120-class01-dave-inked.pdf?rlkey=rmefo4eu1b46kx2ytiwj0unbg&dl=0)] [[Video (UVA Only)](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d4dabd5-9623-417e-b577-b26400f6145d)]  
 2pm Section: [[Slides (PDF)](https://virginia.box.com/s/ny8nqhyx7qfrf5aoc0eem0ue6sp2axk4)] [[Video (UVA Only)](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e60a74f0-3893-427f-804d-b264013a6646)]
 
 
