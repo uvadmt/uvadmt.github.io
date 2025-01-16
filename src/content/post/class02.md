@@ -21,7 +21,7 @@ slug="class2"
 Note: Didn't get to "Soundness", but will on Friday.
 
 10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/djikyiidqqwjt7y2vk6c3/cs2120-class02-dave.pdf?rlkey=s4o3s247s3kjqx2chnvbxndwj&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=90035ca8-0257-44ef-b43c-b26600f79580)]  
-2pm Section: [[Slides (PDF)](TODO)] [[Video](TODO)]
+2pm Section: [[Slides (PDF)](https://virginia.box.com/s/vt3mi63m5hbdbrskprtmxeasmwdur3ku)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b759e93e-8548-4eb2-9f17-b2660139e86b)]
 
 
 
