@@ -15,9 +15,14 @@
   weight = -108
 
 [[main]]
+  name = "Schedule"
+  url = "/schedule/"
+  weight = -107
+
+[[main]]
   name = "MCS Book"
   url = "/docs/mcs.pdf"
-  weight = -108
+  weight = -106
 
 
 # [[main]]
