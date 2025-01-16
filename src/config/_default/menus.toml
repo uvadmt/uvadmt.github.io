@@ -8,21 +8,22 @@
   url = "/syllabus/"
   weight = -109
 
-# Submenus are done this way: parent -> identifier
-[[main]]
-  name = "Classes"
-  url = "/classes/"
-  weight = -108
-
 [[main]]
   name = "Schedule"
   url = "/schedule/"
   weight = -107
 
+# Submenus are done this way: parent -> identifier
+[[main]]
+  name = "Classes"
+  url = "/classes/"
+  weight = -105
+
+
 [[main]]
   name = "MCS Book"
   url = "/docs/mcs.pdf"
-  weight = -106
+  weight = -100
 
 
 # [[main]]
