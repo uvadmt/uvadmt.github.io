@@ -1,7 +1,7 @@
 +++
 date = "15 Jan 2025"
 showdate = false
-draft = true
+draft = false
 title = "Schedule"
 slug = "schedule"
 +++
