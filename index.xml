@@ -6,7 +6,37 @@
     <description>Recent content on cs2120: Discrete Mathematics and Theory 1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 3: Truth and Soundness</title>
+      <link>https://uvadmt.github.io/post/class3/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvadmt.github.io/post/class3/</guid>
+      <description>
+        
+          
+            &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Problem Set 1&lt;/strong&gt; is now posted, and is due next Thursday (23 Jan, 8:29pm): [&lt;a href=&#34;https://uvadmt.github.io/docs/ps1.pdf&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;https://www.overleaf.com/read/vfmzgfghbsbh#023fd0&#34;&gt;Template&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;class&#34;&gt;Class&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Defining Boolean (Continued)&lt;/li&gt;
+&lt;li&gt;Revisiting Propositions&lt;/li&gt;
+&lt;li&gt;Implies (Logical operator)&lt;/li&gt;
+&lt;li&gt;Axioms, Inference Rules, Predicates&lt;/li&gt;
+&lt;li&gt;Soundness&lt;/li&gt;
+&lt;li&gt;Contrapositive&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;10am Section: To be Posted &lt;!-- [[Slides (PDF)](https://www.dropbox.com/scl/fi/djikyiidqqwjt7y2vk6c3/cs2120-class02-dave.pdf?rlkey=s4o3s247s3kjqx2chnvbxndwj&amp;dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=90035ca8-0257-44ef-b43c-b26600f79580)]  --&gt;
+2pm Section: To be posted &lt;!-- [[Slides (PDF)](https://virginia.box.com/s/vt3mi63m5hbdbrskprtmxeasmwdur3ku)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b759e93e-8548-4eb2-9f17-b2660139e86b)]--&gt;&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Class 2: Truth and Soundness</title>
       <link>https://uvadmt.github.io/post/class2/</link>

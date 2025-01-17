@@ -16,3 +16,11 @@ title="Classes"
 - Propositions
 - Booleans
 - Operations on Booleans
+
+[Class 3: _Inference_](/post/class3) 
+- Defining Boolean (Continued)
+- Revisiting Propositions
+- Implies (Logical operator)
+- Axioms, Inference Rules, Predicates
+- Soundness
+- Contrapositive
