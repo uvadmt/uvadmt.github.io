@@ -17,7 +17,7 @@ slug="class3"
 - Soundness
 - Contrapositive
 
-10am Section: To be Posted <!-- [[Slides (PDF)](https://www.dropbox.com/scl/fi/lh3xbiausblfkgapdcjlr/cs2120-class03-dave.pdf?rlkey=8rj2oyc4v4b3qcy1miihl9im1&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=815933e8-4a49-4f5e-b810-b26800f71062)]  
+10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/lh3xbiausblfkgapdcjlr/cs2120-class03-dave.pdf?rlkey=8rj2oyc4v4b3qcy1miihl9im1&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=815933e8-4a49-4f5e-b810-b26800f71062)]  
 2pm Section: To be posted <!-- [[Slides (PDF)](https://virginia.box.com/s/vt3mi63m5hbdbrskprtmxeasmwdur3ku)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b759e93e-8548-4eb2-9f17-b2660139e86b)]-->
 
 
