@@ -18,7 +18,7 @@ slug="class3"
 - Contrapositive
 
 10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/lh3xbiausblfkgapdcjlr/cs2120-class03-dave.pdf?rlkey=8rj2oyc4v4b3qcy1miihl9im1&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=815933e8-4a49-4f5e-b810-b26800f71062)]  
-2pm Section: To be posted [[Slides (PDF)](https://virginia.box.com/s/z862nyy3frcwhrbxu70ts230widtmmhy)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00ae3c3b-b1f2-405c-a1b6-b26801397225)]
+2pm Section: [[Slides (PDF)](https://virginia.box.com/s/z862nyy3frcwhrbxu70ts230widtmmhy)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00ae3c3b-b1f2-405c-a1b6-b26801397225)]
 
 
 
