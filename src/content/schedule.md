@@ -10,3 +10,5 @@ slug = "schedule"
 </iframe>
 
 [[Direct Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRIzZGpfQjGXOs_-ZoM3aY-NO2evhOrK74OfskcO0jmcOPN-2oP5ogwbTOI-gJQ3AsUQvGOFMxSPKgb/pubhtml?gid=1350804921&single=true)]
+
+Also see the [Office Hours Schedule](/officehours).

@@ -13,6 +13,11 @@
   url = "/schedule/"
   weight = -107
 
+[[main]]
+  name = "Office Hours"
+  url = "/officehours/"
+  weight = -106
+
 # Submenus are done this way: parent -> identifier
 [[main]]
   name = "Classes"
