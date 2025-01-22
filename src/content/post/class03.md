@@ -1,6 +1,6 @@
 +++
 date= "2025-01-17"
-title="Class 3: Truth and Soundness"
+title="Class 3: Inference"
 slug="class3"
 +++
 
