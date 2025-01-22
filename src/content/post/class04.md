@@ -14,8 +14,8 @@ slug="class4"
 - Contrapositive
 - Introduction to Proof (Odd Square Theorem, Even Square Theorem)
 
+10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/t0so1h3b6c0ly7ayika46/cs2120-class04-dave.pdf?rlkey=d054ogauxmg8oc4m739du9nkr&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ac204952-bbea-4100-8e70-b26d00f72ece)]  
 <!-- 
-10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/lh3xbiausblfkgapdcjlr/cs2120-class03-dave.pdf?rlkey=8rj2oyc4v4b3qcy1miihl9im1&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=815933e8-4a49-4f5e-b810-b26800f71062)]  
 2pm Section: [[Slides (PDF)](https://virginia.box.com/s/z862nyy3frcwhrbxu70ts230widtmmhy)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00ae3c3b-b1f2-405c-a1b6-b26801397225)]
 -->
 
