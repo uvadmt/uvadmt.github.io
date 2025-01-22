@@ -6,7 +6,36 @@
     <description>Recent content on cs2120: Discrete Mathematics and Theory 1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 4: Proof</title>
+      <link>https://uvadmt.github.io/post/class4/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvadmt.github.io/post/class4/</guid>
+      <description>
+        
+          
+            &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Problem Set 1&lt;/strong&gt; due tomorrow (23 Jan, 8:29pm): [&lt;a href=&#34;https://uvadmt.github.io/docs/ps1.pdf&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;https://www.overleaf.com/read/vfmzgfghbsbh#023fd0&#34;&gt;Template&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;class&#34;&gt;Class&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Recap: Inference Rules and Soundness&lt;/li&gt;
+&lt;li&gt;Contrapositive&lt;/li&gt;
+&lt;li&gt;Introduction to Proof (Odd Square Theorem, Even Square Theorem)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 
+10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/lh3xbiausblfkgapdcjlr/cs2120-class03-dave.pdf?rlkey=8rj2oyc4v4b3qcy1miihl9im1&amp;dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=815933e8-4a49-4f5e-b810-b26800f71062)]  
+2pm Section: [[Slides (PDF)](https://virginia.box.com/s/z862nyy3frcwhrbxu70ts230widtmmhy)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00ae3c3b-b1f2-405c-a1b6-b26801397225)]
+--&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Class 3: Inference</title>
       <link>https://uvadmt.github.io/post/class3/</link>

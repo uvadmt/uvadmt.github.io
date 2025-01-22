@@ -24,3 +24,8 @@ title="Classes"
 - Axioms, Inference Rules, Predicates
 - Soundness
 - Contrapositive
+
+[Class 4: _Proof_](/post/class4) 
+- Recap: Inference Rules and Soundness
+- Contrapositive
+- Introduction to Proof (Odd Square Theorem, Even Square Theorem)
