@@ -29,3 +29,7 @@ title="Classes"
 - Recap: Inference Rules and Soundness
 - Contrapositive
 - Introduction to Proof (Odd Square Theorem, Even Square Theorem)
+
+[Class 5: _Proof by Contradiction_](/post/class5)
+- Recap: Proof by Contrapositive
+- Proof by Contradiction
