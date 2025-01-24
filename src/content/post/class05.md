@@ -6,7 +6,7 @@ slug="class5"
 
 ## Schedule
 
-- **Problem Set 2** will be posted soon and due Thursday (30 Jan, 8:29pm)
+- **Problem Set 2** is now posted and is due Thursday (30 Jan, 8:29pm) [[PDF](/docs/ps2.pdf)] [[Template](https://www.overleaf.com/read/wckvjvmxvfsc#a6fe27)]
 
 ## Class
 
