@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/aidansan/Documents/sp25/dmt/uvadmt.github.io/src",
+	"sourceRoot": "/Users/evans/uvadmt.github.io/src",
 	"sources": [
 		"themes/dmt1/assets/sass/main.sass",
 		"themes/dmt1/assets/sass/_variables.sass",
