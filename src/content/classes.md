@@ -33,3 +33,8 @@ title="Classes"
 [Class 5: _Proof by Contradiction_](/post/class5)
 - Recap: Proof by Contrapositive
 - Proof by Contradiction
+
+[Class 6: _Continuing Contradictions_](/post/class6)
+- Finishing the proof of the Odd-Not-Even Lemma
+- Irrational Numbers
+- Proof that the square root of 2 is irrational
