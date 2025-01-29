@@ -6,13 +6,13 @@
     <description>Recent content in Posts on cs2120: Discrete Mathematics and Theory 1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Class 6: Continuing Contradictions</title>
-      <link>https://uvadmt.github.io/post/class6/</link>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <title>Class 7: Contradicting Euclid</title>
+      <link>https://uvadmt.github.io/post/class7/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://uvadmt.github.io/post/class6/</guid>
+      <guid>https://uvadmt.github.io/post/class7/</guid>
       <description>
         
           
@@ -22,12 +22,13 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;class&#34;&gt;Class&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Finishing the proof of the Odd-Not-Even Lemma&lt;/li&gt;
-&lt;li&gt;Irrational Numbers&lt;/li&gt;
-&lt;li&gt;Proof that the square root of 2 is irrational&lt;/li&gt;
+&lt;li&gt;Continuing Irrational Numbers&lt;/li&gt;
+&lt;li&gt;Defining &lt;em&gt;divides&lt;/em&gt; and &lt;em&gt;prime&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Euclid&amp;rsquo;s Lemma&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;10am Section: [&lt;a href=&#34;https://www.dropbox.com/scl/fi/rnfupt7ubblzp3d412vgh/cs2120-class06-dave.pdf?rlkey=wibbyr2a70kfhyd27u7c8rwrk&amp;amp;dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;] [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=441c6dd8-9b26-4a65-85ed-b27200f727a9&#34;&gt;Video&lt;/a&gt;]&lt;br&gt;
-2pm Section: [&lt;a href=&#34;https://virginia.box.com/s/fhy40tkqbu2jcceqt2peub0xnobvlc8d&#34;&gt;Slides (PDF)&lt;/a&gt;] [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f5dec51e-b84b-48d0-ab5a-b2720139210d&#34;&gt;Video&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;10am Section: [&lt;a href=&#34;https://www.dropbox.com/scl/fi/addcfi73hxjmkls3iexe6/cs2120-class07-dave.pdf?rlkey=bxo7x3cr93gv861g2vbzxyo5j&amp;amp;dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;] [Problem with video today, hope it can still be uploaded later but Panopto isn&amp;rsquo;t working now]&lt;/p&gt;
+&lt;!-- 2pm Section: [[Slides (PDF)](https://virginia.box.com/s/fhy40tkqbu2jcceqt2peub0xnobvlc8d)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f5dec51e-b84b-48d0-ab5a-b2720139210d)]
+--&gt;
           
           
         
@@ -53,9 +54,8 @@
 &lt;li&gt;Irrational Numbers&lt;/li&gt;
 &lt;li&gt;Proof that the square root of 2 is irrational&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;10am Section: [&lt;a href=&#34;https://www.dropbox.com/scl/fi/addcfi73hxjmkls3iexe6/cs2120-class07-dave.pdf?rlkey=bxo7x3cr93gv861g2vbzxyo5j&amp;amp;dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;] [Problem with video today, hope it can still be uploaded later but Panopto isn&amp;rsquo;t working now]&lt;/p&gt;
-&lt;!-- 2pm Section: [[Slides (PDF)](https://virginia.box.com/s/fhy40tkqbu2jcceqt2peub0xnobvlc8d)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f5dec51e-b84b-48d0-ab5a-b2720139210d)]
---&gt;
+&lt;p&gt;10am Section: [&lt;a href=&#34;https://www.dropbox.com/scl/fi/rnfupt7ubblzp3d412vgh/cs2120-class06-dave.pdf?rlkey=wibbyr2a70kfhyd27u7c8rwrk&amp;amp;dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;] [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=441c6dd8-9b26-4a65-85ed-b27200f727a9&#34;&gt;Video&lt;/a&gt;]&lt;br&gt;
+2pm Section: [&lt;a href=&#34;https://virginia.box.com/s/fhy40tkqbu2jcceqt2peub0xnobvlc8d&#34;&gt;Slides (PDF)&lt;/a&gt;] [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f5dec51e-b84b-48d0-ab5a-b2720139210d&#34;&gt;Video&lt;/a&gt;]&lt;/p&gt;
           
           
         
