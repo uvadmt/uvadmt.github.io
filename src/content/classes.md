@@ -38,3 +38,8 @@ title="Classes"
 - Finishing the proof of the Odd-Not-Even Lemma
 - Irrational Numbers
 - Proof that the square root of 2 is irrational
+
+[Class 7: _Contradicting Euclid_](/post/class7)
+- Continuing Irrational Numbers
+- Defining _divides_ and _prime_
+- Euclid's Lemma
