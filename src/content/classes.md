@@ -43,3 +43,8 @@ title="Classes"
 - Continuing Irrational Numbers
 - Defining _divides_ and _prime_
 - Euclid's Lemma
+
+[Class 8: _Concluding Contradictions_](/post/class8)
+- Preparing for Test 1
+- Proof by Contradiction Practice
+- Least Positive Rational
