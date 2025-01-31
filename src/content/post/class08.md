@@ -6,7 +6,8 @@ slug="class8"
 
 ## Schedule
 
-- **Test 1** will be in class on **Wednesday, 5 February**. The [Preparing for Test 1](/post/preptest1) should help you prepare and be confident you will do well on the test.
+- **Test 1** will be in class on **Wednesday, 5 February**. The 
+[**Preparation Guide for Test 1**](/docs/preptest1.pdf) should help you prepare and be confident you will do well on the test.
 
 ## Class
 
