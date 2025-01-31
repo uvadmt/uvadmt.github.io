@@ -14,5 +14,5 @@ slug="class7"
 - Defining _divides_ and _prime_
 - Euclid's Lemma
 
-10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/addcfi73hxjmkls3iexe6/cs2120-class07-dave.pdf?rlkey=bxo7x3cr93gv861g2vbzxyo5j&dl=0)] [Problem with video today, hope it can still be uploaded later but Panopto isn't working now]  
+10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/addcfi73hxjmkls3iexe6/cs2120-class07-dave.pdf?rlkey=bxo7x3cr93gv861g2vbzxyo5j&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2f556577-3527-451d-a48c-b27600f646e9)  
 2pm Section: [[Slides (PDF)](https://virginia.box.com/s/1ygabgnbwx87o7oxynztnxs27qhozq8d)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=90fd47f3-2da2-4022-9bf2-b27401392bc6)]
