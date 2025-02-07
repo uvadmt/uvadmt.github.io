@@ -17,6 +17,5 @@ slug="class11"
 - Sets in Python!
 
 10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/a4j6i993k01st41blk627/cs2120-class11-dave.pdf?rlkey=lmav01f15l983ob1v1q61e9as&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=379af453-3b41-4ba8-8d3b-b27d00f704a1)]  
-<!--
-2pm Section: [[Slides (PDF)](https://virginia.box.com/s/u6h7s622al3k2e0kxti1nagut6xmu6cj)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9eabd1f5-c208-424f-9678-b279013944af)]
+2pm Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/eif5nudimz7jz52op39j6/cs2120-class11-dave2.pdf?rlkey=xi2ghl018z0wij90wmgdpyxvd&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b133cdd4-14c3-4039-aa58-b27d01391293)]
 -->
