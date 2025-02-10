@@ -15,7 +15,7 @@ slug="class12"
 - Negating Propositions with Quantifiers
 - Defining Set Operators
 
-10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/7fnnoonbk1vxi0lh3nzs9/cs2120-class12-dave.pdf?rlkey=agf7e3q29dxc5qeb7ks8v2nin&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=379af453-3b41-4ba8-8d3b-b27d00f704a1)]  
+10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/7fnnoonbk1vxi0lh3nzs9/cs2120-class12-dave.pdf?rlkey=agf7e3q29dxc5qeb7ks8v2nin&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b6bcf09f-42fe-43d5-980c-b28000f6d050)]  
 <!-- 2pm Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/eif5nudimz7jz52op39j6/cs2120-class11-dave2.pdf?rlkey=xi2ghl018z0wij90wmgdpyxvd&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b133cdd4-14c3-4039-aa58-b27d01391293)]
 
 -->
