@@ -48,3 +48,21 @@ title="Classes"
 - Preparing for Test 1
 - Proof by Contradiction Practice
 - Least Positive Rational
+
+[Class 9: _Review_](/post/class9)
+- Studenting
+- Proof Methods
+- Practice Problems
+
+[Class 10: Test 1](/post/class10)
+
+[Class 11: _Comprehending Sets_](/post/class11)
+- Defining Sets
+- Operations on Sets
+- Building Sets
+- Sets in Python!
+
+[Class 12: _Sizing up Sets_](/post/class12)
+- Quantifiers
+- Negating Propositions with Quantifiers
+- Defining Set Operators
