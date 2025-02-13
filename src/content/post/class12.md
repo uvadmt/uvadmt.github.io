@@ -1,6 +1,6 @@
 +++
 date= "2025-02-10"
-title="Class 12: Sizing Up Sets"
+title="Class 12: Quantifiers and Sets"
 slug="class12"
 +++
 

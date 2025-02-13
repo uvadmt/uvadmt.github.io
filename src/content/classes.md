@@ -62,7 +62,9 @@ title="Classes"
 - Building Sets
 - Sets in Python!
 
-[Class 12: _Sizing up Sets_](/post/class12)
+[Class 12: _Quantifiers and Sets_](/post/class12)
 - Quantifiers
 - Negating Propositions with Quantifiers
 - Defining Set Operators
+
+[Class 13: Snow Day!](/post/class13)
