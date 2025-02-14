@@ -68,3 +68,7 @@ title="Classes"
 - Defining Set Operators
 
 [Class 13: Snow Day!](/post/class13)
+
+[Class 14: _Cardinality of Finite Sets_](/post/class14)
+- Defining Set Cardinality
+- Binary Relations
