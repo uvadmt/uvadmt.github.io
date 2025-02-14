@@ -6,8 +6,8 @@ slug="class14"
 
 ## Schedule
 
-- **Problem Set 4** will be posted later today and is due 8:29pm on
-**Thursday, 14 February**. <!-- : [[PDF](/docs/ps4.pdf)] [[Template](https://www.overleaf.com/read/tcvjnjjpmjrr#db92dc)]-->
+- **Problem Set 4** is now posted and is due 8:29pm on
+**Thursday, 14 February**: [[PDF](/docs/ps4.pdf)] [[Template](https://www.overleaf.com/4649375768vqyzsrsnpcbp\#10721a)]
 
 ## Class
 
