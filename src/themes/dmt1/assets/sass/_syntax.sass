@@ -14,8 +14,8 @@ code
   font-family: 'Monaco', monospace
   word-break: break-all
   &.noClass
-    --inlineColor: rgb(194, 29, 0)
-    color: var(--inlineColor)
+    --inlineColor: var(--codetext)
+    color: var(--codetext)
     display: inline
     line-break: anywhere
 .windows .highlight
@@ -61,7 +61,7 @@ code
   & &
     margin: 0
   pre
-    color: var(--light) !important
+    color: var(--code-bg)
     border-radius: 4px
     font-family: 'Monaco', monospace
     padding-top: 1.5rem

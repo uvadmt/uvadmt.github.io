@@ -28,7 +28,14 @@
 [[main]]
   name = "MCS Book"
   url = "/docs/mcs.pdf"
+  weight = -102
+
+[[main]]
+  name = "Overleaf"
+  url = "/latex"
   weight = -100
+
+
 
 
 # [[main]]
