@@ -7,7 +7,7 @@ slug="class14"
 ## Schedule
 
 - **Problem Set 4** is now posted and is due 8:29pm on
-**Thursday, 14 February**: [[PDF](/docs/ps4.pdf)] [[Template](https://www.overleaf.com/read/kdfyffygvwpn#1f06d7)]
+**Thursday, 20 February**: [[PDF](/docs/ps4.pdf)] [[Template](https://www.overleaf.com/read/kdfyffygvwpn#1f06d7)]
 
 ## Class
 

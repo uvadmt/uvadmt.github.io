@@ -72,3 +72,8 @@ title="Classes"
 [Class 14: _Cardinality of Finite Sets_](/post/class14)
 - Defining Set Cardinality
 - Binary Relations
+
+[Class 15: _Sets with Power!_](/post/class15)
+- Reviewing Binary Relations
+- Connections between relation properties and set sizes
+- Power sets

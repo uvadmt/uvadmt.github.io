@@ -6,7 +6,36 @@
     <description>Recent content in Posts on cs2120: Discrete Mathematics and Theory 1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 15: Sets with Power!</title>
+      <link>https://uvadmt.github.io/post/class15/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvadmt.github.io/post/class15/</guid>
+      <description>
+        
+          
+            &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Problem Set 4&lt;/strong&gt; is due 8:29pm on
+&lt;strong&gt;Thursday, 20 February&lt;/strong&gt;: [&lt;a href=&#34;https://uvadmt.github.io/docs/ps4.pdf&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;https://www.overleaf.com/read/qqvqbpzjxpgk#698844&#34;&gt;Template&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;class&#34;&gt;Class&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Reviewing Binary Relations&lt;/li&gt;
+&lt;li&gt;Connections between relation properties and set sizes&lt;/li&gt;
+&lt;li&gt;Power sets&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;10am Section: [&lt;a href=&#34;&#34;&gt;Slides (PDF)&lt;/a&gt;] [&lt;a href=&#34;&#34;&gt;Video&lt;/a&gt;] (Excursion: Barbara W. Sarnecka, Susan Carey, &lt;em&gt;How counting represents number: What children must learn and when they learn it&lt;/em&gt;](/docs/sarnecka2008.pdf), Cognition 2008.)&lt;/p&gt;
+&lt;!-- 2pm Section: [[Slides (PDF)](https://virginia.box.com/s/owwptajxpc7jch8vclw21cvxfm9v32on)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=891560f0-133a-41c6-960e-b281001e056d)]
+--&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Class 14: Cardinality of Finite Sets</title>
       <link>https://uvadmt.github.io/post/class14/</link>
@@ -19,7 +48,7 @@
             &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Problem Set 4&lt;/strong&gt; is now posted and is due 8:29pm on
-&lt;strong&gt;Thursday, 14 February&lt;/strong&gt;: [&lt;a href=&#34;https://uvadmt.github.io/docs/ps4.pdf&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;https://www.overleaf.com/read/kdfyffygvwpn#1f06d7&#34;&gt;Template&lt;/a&gt;]&lt;/li&gt;
+&lt;strong&gt;Thursday, 20 February&lt;/strong&gt;: [&lt;a href=&#34;https://uvadmt.github.io/docs/ps4.pdf&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;https://www.overleaf.com/read/kdfyffygvwpn#1f06d7&#34;&gt;Template&lt;/a&gt;]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;class&#34;&gt;Class&lt;/h2&gt;
 &lt;ul&gt;
