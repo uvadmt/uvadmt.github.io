@@ -1,0 +1,600 @@
++++ 
+author="Amro Aljundi" 
+title = "LaTeX Reference" 
+date = "2025-02-16" 
+slug = "latex" 
+description = "A focused introduction to LaTeX for undergraduate students" 
+enableMathNotation = true 
++++
+# How do I read this page?
+Read the basics section. Then go to whichever section you need. If you have any
+questions, use google/genAI/experimentation!
+# What is LaTex? And what's Overleaf?
+LaTeX is a typesetting language used to create documents. You write content in
+plain text, and LaTeX handles the formatting. The philosophy of LaTex is for you
+to write without worrying about how things will look.
+
+Overleaf is an online LaTex editor and collaboration platform. Sort of like
+Google Docs but for LaTex files.
+
+# Basics
+## "code" and "rendering"
+We will refer to LaTeX that we write as "code", and we will refer to the result
+of compiling some LaTeX code as its "rendering". In other words, this LaTeX code
+
+```latex
+$P :=$ Latex is great
+```
+Is rendered as follows
+
+{{< figure src="render.png" title="Simple render" alt="A render of LaTeX code" >}}
+## Comments
+Comments in LaTeX start with the `%` character.
+## Environment
+An environment in LaTeX is a block of code between a `\begin` and an `\end`
+command pair. An environment has its own formatting rules. For example, in an
+`enumerate` environment, the `item` command will create a new item in a numbered
+list. In an `equation` environment, code is automatically interpreted in math
+mode. 
+
+```latex
+\begin{itemize}
+   \item Text in this environment is formatted as a bulleted list.
+\end{itemize}
+\begin{equation*}
+f(x) = 2x+5
+\end{equation*}
+```
+
+## Command
+A command in LaTeX is something that begins with `\`. This includes math
+commands like `\times` or non-math commands like `\textbf`. A command can take
+no inputs, or take one or more inputs. 
+```latex
+\LaTeX % command with no input
+
+\textbf{Bold} % command with one input
+
+$\frac{a}{b}$ % command with two inputs
+```
+{{< figure src="commands.png" title="Commands and arguments" alt="Commands and arguments" >}}
+The input(s) to a command should be surrounded with curly braces (`{}`). If you
+don't use curly braces around inputs, the command will only apply to the first
+character after the command.
+```latex
+\textbf Bold  % only applies to the character B
+
+$\frac ab cd$ % `a` will be the first input 
+              % and `b` the second
+```
+{{< figure src="commands_bad.png" title="Surround command inputs with curly braces" alt="If you don't surround command inputs with curly braces, only one character is assumed as the input." >}}
+Curly braces act as a grouping method to ensure commands apply to a sequence of
+characters. 
+
+# Seperating lines in LaTex
+If you want to start a new paragraph in LaTeX, you must use two end-line characters after the end of a paragraph:
+
+```latex
+Paragraph 1.
+Second line in paragraph 1.
+
+Paragraph 2. Second sentence in paragraph 2.
+Third sentence in paragraph 2.
+```
+{{< figure src="paragraph.png" title="Paragraph separation" alt=" Text is separated into paragraphs using two end-line characters." >}}
+
+On the other hand, if you wish to break a line while staying in the same
+paragraph, you can use the `\\` command.
+
+```latex
+Sentence 1, paragraph 1.\\
+Sentence 2, paragraph 1.\\Sentence, paragraph 1.
+
+New paragraph.
+```
+{{< figure src="linebreak.png" title="Breaking lines in a paragraph" alt="Breaking lines in a paragraph" >}}
+
+<details>
+<summary>Why so confusing?</summary>
+This might seem annoying at first since it's more natural to separate paragraphs with a single end-line. However, this comes in handy in two respects. First, when writing long paragraphs with equations or links, it might be easier to edit when these big things are separate. For example,
+<pre><code class="language-latex">
+Given that we know
+$a = 2b+c$
+and that
+$c\in\{0,1\}$, 
+then we can conclude that the statement is true.
+</code></pre>
+might be easier to edit than
+<pre><code class="language-latex">
+Given that we know $a = 2b+c$ and that $c\in\{0,1\}$, then we can conclude that the statement is true.
+</code></pre>
+The second reason is version control. If you're keeping track of your document using Git, for example, it's better to separate paragraphs into shorter segments so smaller changes are easy to track.
+</details>
+
+# Numbered lists
+As we saw in class, a good way to write proofs is to separate your steps into
+a numbered list. Rather than numbering your items and numbering them manually,
+LaTeX comes with a neat tool for doing this dirty work for you.
+
+## Writing numbered lists
+When writing a proof that uses multiple steps, you can use the `enumerate`
+environment in LaTeX.  
+```latex
+Text before the enumerated list.
+\begin{enumerate}
+   \item The item command signals starting a new step. 
+   Just like other parts of latex, an end-line character doesn't create a 
+   new paragraph.
+   
+   You can write multiple paragraphs in a single item.
+   \item Second step.
+\end{enumerate}
+Text after the enumerated list.
+```
+
+{{< figure src="enum_list_1.png" title="Simple enumerated list" alt="Simple enumerated list" >}}
+## Nested lists (sublists)
+Lists can be nested. Simply start a new `enumerate` environment at the point
+where you want the sublist to be created.
+
+```latex
+\begin{enumerate}
+   \item first step
+   \item second step. Includes the following substeps: 
+   \begin{enumerate}
+      \item substep 1.
+      \item substep 2.
+   \end{enumerate}
+   still in the second step.
+   \item substep 3.
+
+\end{enumerate}
+```
+{{< figure src="enum_sublist.png" title="Sublists" alt="Sublists" >}}
+
+## Referencing items in lists
+If you want to reference an item in a list, you must give the item a label. This is done using the `\label{}` command:
+```latex
+   \item this step will be labeled "step-one"\label{step-one}
+```
+Now, you can refer to this item anywhere in your text using the `\ref{}` command
+ by passing that item's label.
+
+```latex
+\begin{enumerate}
+   \item first step.\label{step-one}   
+   \item second step. Includes the following 
+   substeps: 
+   \begin{enumerate}
+      \item substep 1.\label{proof1:s1:ss1}
+   \end{enumerate}
+
+\end{enumerate}
+References to items outside the list work, e.g. 
+a reference to step \ref{step-one} or step 
+\ref{proof1:s1:ss1}.
+```
+{{< figure src="enum_sublist_ref.png" title="Sublists references" alt="Sublists references" >}}
+
+# Math in latex
+Math in latex is one of its strongest features. There are two modes for math in
+LaTeX: __inline math mode__, or __display math mode__. Inline math is when a
+mathematical equation is within a text paragraph, display math is when an
+equation is on its own line.
+
+## Inline math mode
+You can add a mathematical equation to a paragraph in LaTeX by surrounding the
+equation with `$` symbols.
+
+```latex
+This equation $x^2+5 = y$ is rendered 
+in the middle of the paragraph.
+```
+{{< figure src="inline_math.png" title="Inline math" alt="Inline math" >}}
+
+## Display math mode
+If you want your equation to be prominent and take up the whole line, you can
+use display math mode. You can trigger display math using many environments. The
+simplest is the `equation*` environment.
+
+```latex
+The following equation will take up its own line
+\begin{equation*}
+   f(x) = x^{x}
+\end{equation*}
+```
+
+{{< figure src="display_math.png" title="Display math" alt="Display math" >}}
+Display math equations can also be added in the middle of an enumerated list.
+
+```latex
+\begin{enumerate}
+   \item definitions.
+   \item some case\begin{enumerate}
+         \item a display math equation
+         \begin{equation*}
+            f(x|y) = xy-2
+         \end{equation*}
+      \end{enumerate}
+\end{enumerate}
+```
+{{< figure src="display_math_enum.png" title="Display math in an enumerated list" alt="Display math in an enumerated list" >}}
+
+## Splitting equations over multiple lines
+Sometimes you want to show multiple steps of a derivation, or your equation is
+too long to fit in a single line. In such cases, you can use the `align*`
+enviornment. Inside this environment, you can separate lines using `\\`, which
+you add to every line except the last one. By default, consequent lines will be
+right-aligned.
+
+```latex
+\begin{align*}
+   y = 3 + 2 - 3 +4 - 2\\
+   + 4 +11 \\
+   = 19
+\end{align*}
+```
+{{< figure src="align_no_sep.png" title="Seperating an equation into multiple lines" alt="Seperating an equation into multiple lines" >}}
+
+## Splitting equations over lines and align them
+You can align the lines of a multi-line equation around certain points in a
+line. This is especially useful when simplifying an equation or moving things
+around an inequality. This is done using the `align*` environment. Inside the
+environment, split lines using `\\` and specify where the symbols should align
+using the `&` symbol. You can think of `&` as a separator of columns in a table,
+where each `&` character within a line represents the beginning of a new column.
+
+
+
+```latex
+\begin{align*}
+   y &= 3 + 2 - 3 
+   +4 - 2\\ % Note that lines 1 and 2 are rendered 
+   %as a single line
+   & + 4 +11 \\
+   & = 19
+\end{align*}
+\begin{align*}
+   3+y &\geq x\\
+   3 & \geq x-y
+\end{align*}
+\begin{align*}
+   2x + 3 &= 11 \\
+   2x &= 8 \\
+   x &= 4
+\end{align*}
+```
+{{< figure src="align.png" title="Aligning equations" alt="Aligning equations" >}}
+
+## Numbering and referencing equations
+Sometimes, it is useful to number equations and reference them in your proof. This works for display math equations. To make your equations numbered, simply remove the `*` from the environment name. 
+```latex
+\begin{equation}
+x= y
+\end{equation}
+\begin{align}
+x = 3y + z \\
++ 5v
+\end{align}
+```
+{{< figure src="number.png" title="Numbering equations" alt="Numbering equations" >}}
+
+You can give numbered equations a label and then reference them in your text.
+This is done through the `\label{}` and `\ref{}` commands. To reference an
+equation, add a `\label{}` command to the end of the equation (or the line for a
+multi-line equation) with your desired label, and then use `\ref{}` to refer to
+that equation. 
+
+Note: for multi-line equations using `align`, you can add `\nonumber` to lines
+in the equation that you don't want to number, e.g., those that are a part of
+longer equations.
+
+```latex
+\begin{enumerate}
+   \item definitions.
+   \item some case\begin{enumerate}
+         \item a display math equation
+         \begin{equation}
+            f(x|y) = xy-2\label{proof2:eq}
+         \end{equation}
+         \item two lines with different numbers 
+         \begin{align}
+            x &= 3y+5z+\sum_1^{10} v \nonumber\\
+            & +(2\times 3)y \label{proof2:eq:start}\\
+            x &= 1.5\times 2 \times y \label{proof2:eq:interm}
+         \end{align}
+      \end{enumerate}
+   \item From equations \ref{proof2:eq} and \ref{proof2:eq:interm} we conclude ...
+\end{enumerate}
+```
+{{< figure src="ref_equation.png" title="Referencing equations" alt="Referencing equations" >}}
+
+## Common math commands and operations
+Writing math in inline or display math modes works very similarly. This section
+shows some of the operations you will need to use.
+### Common operators
+Here is a list of commonly used operators in proofs
+| LaTeX Code | Rendered Result | Description |
+|------------|----------------|-------------|
+| `$\forall$` | \\(\forall\\) | For all (universal quantifier) |
+| `$\exists$` | \\(\exists\\) | There exists (existential quantifier) |
+| `$\implies$` | \\(\implies\\) | Implies (if-then) |
+| `$\iff$` | \\(\iff\\) | If and only if (logical equivalence) |
+| `$\neg$` | \\(\neg\\) | Logical NOT |
+| `$\land$` | \\(\land\\) | Logical AND |
+| `$\lor$` | \\(\lor\\) | Logical OR |
+| `$\in$` | \\(\in\\) | Element of (set membership) |
+| `$\notin$` | \\(\notin\\) | Not element of |
+| `$\subset$` | \\(\subset\\) | Strict subset of |
+| `$\subseteq$` | \\(\subseteq\\) | Subset or equal to |
+| `$\cup$` | \\(\cup\\) | Set union |
+| `$\cap$` | \\(\cap\\) | Set intersection |
+| `$\setminus$` | \\(\setminus\\) | Set difference |
+| `$\emptyset$` | \\(\emptyset\\) | Empty set |
+| `$\mathbb{R}$` | \\(\mathbb{R}\\) | Real numbers |
+| `$\mathbb{N}$` | \\(\mathbb{N}\\) | Natural numbers |
+| `$\mathbb{Z}$` | \\(\mathbb{Z}\\) | Integers |
+| `$\infty$` | \\(\infty\\) | Infinity |
+| `$\mid$` | \\(\mid\\) | Such that (vertical bar) |
+| `$\equiv$` | \\(\equiv\\) | Equivalent to |
+| `$\approx$` | \\(\approx\\) | Approximately equal to |
+| `$\neq$` | \\(\neq\\) | Not equal to |
+```latex
+% Example usage
+\begin{equation*}
+\{x \in \mathbb{R} \mid x > 0\}    % set notation
+\end{equation*}
+\begin{equation*}
+\forall x \in \mathbb{N} \exists y  % quantifiers
+\end{equation*}
+\begin{equation*}
+A \subseteq B \implies A \cap C \subseteq B \cap C  % set logic
+\end{equation*}
+```
+$$
+\{x \in \mathbb{R} \mid x > 0\}  % set notation
+$$
+$$
+\forall x \in \mathbb{N} \exists y  % quantifiers
+$$
+$$
+A \subseteq B \implies A \cap C \subseteq B \cap C  % set logic
+$$
+
+### Subscript and power
+Subscript and power are done using the `_` and `^` operators. Each operator make
+the group that follows the operator a subscript or a superscript (power).
+Remember to always place the expression you want to make the subscript or
+superscript in curly braces.
+```latex
+\begin{equation*}
+x_{2} 
+\end{equation*}
+\begin{equation*}
+x_{2+1}
+\end{equation*}
+
+\begin{equation*}
+x^{2}
+\end{equation*}
+\begin{equation*}
+x^{2+1}
+\end{equation*}
+```
+$$
+x_{2} 
+$$
+$$
+x_{2+1}
+$$
+
+$$
+x^{2}
+$$
+$$
+x^{2+1}
+$$
+
+### Fractions
+Fractions can be written using the `\frac{}{}` command which takes two inputs,
+the numerator and the denominator, respectively.
+```latex
+\begin{equation*}
+\frac{p}{q}
+\end{equation*}
+```
+$$
+\frac{p}{q}
+$$
+Nested fractions are possible, but pay attention to the braces.
+```latex
+\begin{equation*}
+\frac{1}{\frac{2}{3}}
+\end{equation*}
+```
+$$
+\frac{1}{\frac{2}{3}}
+$$
+
+### Compact fractions for inline math mode
+When writing math inline, it might be more clear to write fractions using `/`
+rather than the `\frac` command. 
+
+```latex
+$a/b$ instead of $\frac{a}{b}$ in text
+```
+{{< figure src="inline_frac.png" title="Fractions inline" alt="Inline fractions" >}}
+
+### Brackets
+You can add brackets to your equations directly, except for curly braces, as
+those require an escape character.
+
+```latex
+\begin{equation*}
+(a+1)
+\end{equation*}
+\begin{equation*}
+[0,1]
+\end{equation*}
+\begin{equation*}
+\{n\in\{1,2,3\} \mid n > 1\}
+\end{equation*}
+```
+$$
+(a+1)
+$$
+$$
+[0,1]
+$$
+$$
+\{n\in\{1,2,3\} \mid n > 1\}
+$$
+
+
+### Bracket resizing 
+Brackets are generally added using a single size regardless of their contents.
+
+```latex
+\begin{equation*}
+(\frac{\frac{\frac{a}{b}}{c}}{d})
+\end{equation*}
+```
+$$
+(\frac{\frac{\frac{a}{b}}{c}}{d})
+$$
+
+To instruct LaTeX to resize brackets, use `\left` and `\right` when adding brackets.
+
+```latex
+\begin{equation*}
+\left(\frac{\frac{\frac{a}{b}}{c}}{d}\right)
+\end{equation*}
+\begin{equation*}
+\left(\sum_{i=1}^{10}\frac{i}{i/2}\right)
+\end{equation*}
+```
+$$
+\left(\frac{\frac{\frac{a}{b}}{c}}{d}\right)
+$$
+$$
+\left(\sum_{i=1}^{10}\frac{i}{i/2}\right)
+$$
+
+### Spaces
+LaTeX takes care of adding spaces between characters in equations; you can't add
+spaces in the rendering of an equation by adding extra spaces to the code
+
+```latex
+\begin{equation*}
+a    =    b
+\end{equation*}
+\begin{equation*}
+a=b 
+\end{equation*}
+\begin{equation*}
+x y 
+\end{equation*}
+```
+$$
+a    =    b
+$$
+$$
+a=b 
+$$
+$$
+x y 
+$$
+
+If you wish to manually add spaces, you need to use special commands.
+
+```latex
+\begin{equation*}
+x \; y\\        % medium space
+\end{equation*}
+\begin{equation*}
+x \: y\\        % thin space
+\end{equation*}
+\begin{equation*}
+x \! y\\        % negative thin space
+\end{equation*}
+```
+{{< figure src="space.png" title="Space in math mode" alt="Changing space in math mode" >}}
+
+
+# Example proofs
+Here are fully written proofs as examples.
+
+## Example 1
+
+```latex
+Prove that for sets $A$, $B$, and $C$, if $A \subseteq B$ then 
+$(A \cap C) \subseteq (B \cap C)$
+
+\begin{enumerate}
+    \item Let $A \subseteq B$ \label{step:subset}
+    \item Take any $x \in (A \cap C)$ \label{step:element}
+    \item From step \ref{step:element}, we know:
+    \begin{enumerate}
+        \item $x \in A$ \label{step:inA}
+        \item $x \in C$ \label{step:inC}
+    \end{enumerate}
+    \item From steps \ref{step:subset} and \ref{step:inA}, we can conclude:
+    \begin{equation}
+        x \in B \label{eq:inB}
+    \end{equation}
+    \item From equation \ref{eq:inB} and step \ref{step:inC}, we have:
+        \[ x \in B \land x \in C \implies x \in (B \cap C) \]
+    \item Therefore, $(A \cap C) \subseteq (B \cap C)$
+\end{enumerate}
+```
+{{< figure src="example_1.png" title="First example proof" alt="First example proof" >}}
+
+# Tables
+Create tables using the `tabular` environment. The environment takes an input
+which will contain a letter for each column. Letters can be `l`, `r`, or `c`
+which make column left-, right-, or center-aligned. 
+
+The following declaration creates a table with three columns, the first two left-aligned
+and the last one center-aligned.
+
+```latex
+\begin{tabular}{llc}
+%...
+\end{tabular}
+```
+
+Rows inside a table are separated with `\\` (except the last row), and columns within a row are
+separated with `&`. Note that you can use inline math inside a table.
+
+```latex
+\begin{tabular}{llc}
+Name & ID & Salary \\
+John & 
+1234 & 
+$9000.00$ \\ 
+Doe &
+5678 & $1000.00$
+\end{tabular}
+```
+{{< figure src="table.png" title="Table" alt="Table" >}}
+## Adding visual separators
+You can add vertical separators using `|` characters defined inside the tabular input braces.
+
+```latex
+\begin{tabular}{||l|l|c}
+c1 & c2 & c3
+\end{tabular}
+```
+{{< figure src="table_vertical.png" title="Vertical table seperators" alt="Vertical table seperators" >}}
+
+You can add horizontal separators using the `\hline` command.
+```latex
+\begin{tabular}{||l|l|c}
+\hline
+Heading 1 & Heading 2 & Heading 3\\
+\hline\hline
+c1 & c2 & c3
+\hline
+\end{tabular}
+```
+{{< figure src="table_horizonal.png" title="Horizontal separators" alt="Horizontal separators" >}}
