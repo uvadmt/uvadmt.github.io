@@ -1,55 +1,39 @@
 +++ 
 author="Amro Aljundi" 
-title = "LaTeX Reference" 
+title = "Typesetting using Overleaf and LaTeX" 
 date = "2025-02-16" 
 slug = "latex" 
-description = "A focused introduction to LaTeX for undergraduate students" 
+description = "A focused introduction to LaTeX for typesetting in discrete math" 
 enableMathNotation = true 
 +++
-# How do I read this page?
-Read the basics section. Then go to whichever section you need. If you have any
-questions, use google/genAI/experimentation!
-# What is LaTex? And what's Overleaf?
-LaTeX is a typesetting language used to create documents. You write content in
-plain text, and LaTeX handles the formatting. The philosophy of LaTex is for you
-to write without worrying about how things will look.
 
-Overleaf is an online LaTex editor and collaboration platform. Sort of like
-Google Docs but for LaTex files.
+# Overleaf and LaTex
+
+Overleaf is a web application for collaboratively editing documents typeset using LaTeX.
+
+LaTeX is a powerful and extensible typesetting language that allows you to produce beautiful, complex documents from structured text input. The philosophy of LaTex is for you to write without worrying about how things will look.
+
+LaTeX was developed by Leslie Lamport (who won the 2013 Turing Award for work on distributed computing) as a set of macros built on TeX to make it easier to produce documents. TeX was developed by Donald Knuth (who won the 1974 Turing Award and was among the first people to formally analyze algorithms), because he was unsatisfied with the typesetting tools available for writing _The Art of Computer Programming_ (which he started writing in 1962, but is still unfinished). 
 
 # Basics
-## "code" and "rendering"
-We will refer to LaTeX that we write as "code", and we will refer to the result
-of compiling some LaTeX code as its "rendering". In other words, this LaTeX code
+## "source" and "rendering"
+We will refer to LaTeX that we write as "source", and we will refer to the result
+of compiling some LaTeX code as its "rendering". In other words, this LaTeX source:
 
 ```latex
 $P :=$ Latex is great
 ```
-Is rendered as follows
+Is rendered as:
 
 {{< figure src="render.png" title="Simple render" alt="A render of LaTeX code" >}}
-## Comments
-Comments in LaTeX start with the `%` character.
-## Environment
-An environment in LaTeX is a block of code between a `\begin` and an `\end`
-command pair. An environment has its own formatting rules. For example, in an
-`enumerate` environment, the `item` command will create a new item in a numbered
-list. In an `equation` environment, code is automatically interpreted in math
-mode. 
 
-```latex
-\begin{itemize}
-   \item Text in this environment is formatted as a bulleted list.
-\end{itemize}
-\begin{equation*}
-f(x) = 2x+5
-\end{equation*}
-```
 
-## Command
-A command in LaTeX is something that begins with `\`. This includes math
-commands like `\times` or non-math commands like `\textbf`. A command can take
-no inputs, or take one or more inputs. 
+
+## Macros
+
+A macro in LaTeX is something that begins with `\`. This includes math
+commands like `\times` or non-math commands like `\textbf`. A macro can take zero or more parameters. Macros are analogous to functions in programming languages (but different from mathematical functions as we have discussed). Some macros only work in math mode, such as the `\frac` in the example below---the `$` is one way to denote math mode.
+
 ```latex
 \LaTeX % command with no input
 
@@ -58,9 +42,10 @@ no inputs, or take one or more inputs.
 $\frac{a}{b}$ % command with two inputs
 ```
 {{< figure src="commands.png" title="Commands and arguments" alt="Commands and arguments" >}}
-The input(s) to a command should be surrounded with curly braces (`{}`). If you
-don't use curly braces around inputs, the command will only apply to the first
+
+The inputs to a macro follow the macro and each input is surrounded by curly braces (`{}`). If you don't use curly braces around inputs, the command will only apply to the first
 character after the command.
+
 ```latex
 \textbf Bold  % only applies to the character B
 
@@ -71,8 +56,26 @@ $\frac ab cd$ % `a` will be the first input
 Curly braces act as a grouping method to ensure commands apply to a sequence of
 characters. 
 
-# Seperating lines in LaTex
-If you want to start a new paragraph in LaTeX, you must use two end-line characters after the end of a paragraph:
+
+## Comments
+
+Comments in LaTeX start with the `%` character.  You can comment out longer regions using a conditional (started with `\iffalse` and ended with if backwards `\fi`):
+
+```latex
+% $P :=$ Latex is great
+
+\iffalse
+This is a lot of junk that will not show up in the rendering!
+\fi
+```
+
+
+
+# Seperating Lines
+
+One of the philosophies behind the design of LaTeX is that the structure of a document is separated from its presentation. So, most whitespace (including newlines) in the source do not influence the rendering.
+
+To start a new paragraph in LaTeX use two new lines (i.e., a blank line):
 
 ```latex
 Paragraph 1.
@@ -83,8 +86,7 @@ Third sentence in paragraph 2.
 ```
 {{< figure src="paragraph.png" title="Paragraph separation" alt=" Text is separated into paragraphs using two end-line characters." >}}
 
-On the other hand, if you wish to break a line while staying in the same
-paragraph, you can use the `\\` command.
+You can also use the `\\` command to start a new line without starting a new paragraph:
 
 ```latex
 Sentence 1, paragraph 1.\\
@@ -95,7 +97,7 @@ New paragraph.
 {{< figure src="linebreak.png" title="Breaking lines in a paragraph" alt="Breaking lines in a paragraph" >}}
 
 <details>
-<summary>Why so confusing?</summary>
+<summary>Why ignore new lines?</summary>
 This might seem annoying at first since it's more natural to separate paragraphs with a single end-line. However, this comes in handy in two respects. First, when writing long paragraphs with equations or links, it might be easier to edit when these big things are separate. For example,
 <pre><code class="language-latex">
 Given that we know
@@ -111,12 +113,36 @@ Given that we know $a = 2b+c$ and that $c\in\{0,1\}$, then we can conclude that 
 The second reason is version control. If you're keeping track of your document using Git, for example, it's better to separate paragraphs into shorter segments so smaller changes are easy to track.
 </details>
 
+## Environments
+
+An environment in LaTeX is a block of code between a `\begin` and an `\end`
+command pair. An environment has its own formatting rules. For example, in an
+`enumerate` environment, the `\item` command will create a new item in a numbered
+list. In an 'itemize' environment, the `\item` command creates a new item but in a bulleted (or some other symbol) list.
+
+In an `equation` environment, code is automatically interpreted in math
+mode. 
+
+```latex
+\begin{itemize}
+   \item Text in this environment is formatted as a bulleted list.
+   \item For cosemetic reasons, a list should always have at least two items, unlike a set which can be empty.
+\end{itemize}
+\begin{equation*}
+f(x) = 2x+5
+\end{equation*}
+```
+
+Because the math environment is so common, there are several different ways to denote it. The most compact is to use `$` &mdash; text between two `$` will be rendered as math. 
+
 # Numbered lists
+
 As we saw in class, a good way to write proofs is to separate your steps into
 a numbered list. Rather than numbering your items and numbering them manually,
 LaTeX comes with a neat tool for doing this dirty work for you.
 
 ## Writing numbered lists
+
 When writing a proof that uses multiple steps, you can use the `enumerate`
 environment in LaTeX.  
 ```latex
@@ -133,7 +159,9 @@ Text after the enumerated list.
 ```
 
 {{< figure src="enum_list_1.png" title="Simple enumerated list" alt="Simple enumerated list" >}}
+
 ## Nested lists (sublists)
+
 Lists can be nested. Simply start a new `enumerate` environment at the point
 where you want the sublist to be created.
 
@@ -316,29 +344,28 @@ shows some of the operations you will need to use.
 Here is a list of commonly used operators in proofs
 | LaTeX Code | Rendered Result | Description |
 |------------|----------------|-------------|
-| `$\forall$` | \\(\forall\\) | For all (universal quantifier) |
-| `$\exists$` | \\(\exists\\) | There exists (existential quantifier) |
-| `$\implies$` | \\(\implies\\) | Implies (if-then) |
+| `$\implies$` | \\(\implies\\) | Implies |
 | `$\iff$` | \\(\iff\\) | If and only if (logical equivalence) |
 | `$\neg$` | \\(\neg\\) | Logical NOT |
 | `$\land$` | \\(\land\\) | Logical AND |
 | `$\lor$` | \\(\lor\\) | Logical OR |
 | `$\in$` | \\(\in\\) | Element of (set membership) |
 | `$\notin$` | \\(\notin\\) | Not element of |
-| `$\subset$` | \\(\subset\\) | Strict subset of |
-| `$\subseteq$` | \\(\subseteq\\) | Subset or equal to |
+| `$\subseteq$` | \\(\subseteq\\) | Subset (subset or equal to) |
+| `$\subset$` | \\(\subset\\) | Proper subset (strict subset) |
 | `$\cup$` | \\(\cup\\) | Set union |
 | `$\cap$` | \\(\cap\\) | Set intersection |
-| `$\setminus$` | \\(\setminus\\) | Set difference |
 | `$\emptyset$` | \\(\emptyset\\) | Empty set |
-| `$\mathbb{R}$` | \\(\mathbb{R}\\) | Real numbers |
 | `$\mathbb{N}$` | \\(\mathbb{N}\\) | Natural numbers |
 | `$\mathbb{Z}$` | \\(\mathbb{Z}\\) | Integers |
-| `$\infty$` | \\(\infty\\) | Infinity |
-| `$\mid$` | \\(\mid\\) | Such that (vertical bar) |
+| `$\mathbb{Q}$` | \\(\mathbb{Q}\\) | Rational numbers |
+| `$\mathbb{R}$` | \\(\mathbb{R}\\) | Real numbers |
+| `$\mid$` | \\(\mid\\) | Such that (vertical bar in set comprehension notation) |
+| `$\forall$` | \\(\forall\\) | For all (universal quantifier) |
+| `$\exists$` | \\(\exists\\) | There exists (existential quantifier) |
 | `$\equiv$` | \\(\equiv\\) | Equivalent to |
-| `$\approx$` | \\(\approx\\) | Approximately equal to |
 | `$\neq$` | \\(\neq\\) | Not equal to |
+| `$\infty$` | \\(\infty\\) | Infinity |
 ```latex
 % Example usage
 \begin{equation*}
@@ -361,51 +388,31 @@ $$
 A \subseteq B \implies A \cap C \subseteq B \cap C  % set logic
 $$
 
-### Subscript and power
-Subscript and power are done using the `_` and `^` operators. Each operator make
-the group that follows the operator a subscript or a superscript (power).
+### Subscript and Superscript
+
+Subscripts and superscripts (exponents) are done using the `_` and `^` operators. Each operator makes the group that follows the operator a subscript or a superscript.
 Remember to always place the expression you want to make the subscript or
 superscript in curly braces.
 ```latex
-\begin{equation*}
-x_{2} 
-\end{equation*}
-\begin{equation*}
-x_{2+1}
-\end{equation*}
-
-\begin{equation*}
-x^{2}
-\end{equation*}
-\begin{equation*}
-x^{2+1}
-\end{equation*}
+$$
+x_{2}, x_{2+1}, x^{2}, x^{2+1}
+$$
 ```
 $$
-x_{2} 
-$$
-$$
-x_{2+1}
-$$
-
-$$
-x^{2}
-$$
-$$
-x^{2+1}
+x_{2}, x_{2+1}, x^{2}, x^{2+1}
 $$
 
 ### Fractions
 Fractions can be written using the `\frac{}{}` command which takes two inputs,
 the numerator and the denominator, respectively.
 ```latex
-\begin{equation*}
-\frac{p}{q}
-\end{equation*}
+$\frac{p}{q}$
 ```
+
 $$
 \frac{p}{q}
 $$
+
 Nested fractions are possible, but pay attention to the braces.
 ```latex
 \begin{equation*}
@@ -415,15 +422,6 @@ Nested fractions are possible, but pay attention to the braces.
 $$
 \frac{1}{\frac{2}{3}}
 $$
-
-### Compact fractions for inline math mode
-When writing math inline, it might be more clear to write fractions using `/`
-rather than the `\frac` command. 
-
-```latex
-$a/b$ instead of $\frac{a}{b}$ in text
-```
-{{< figure src="inline_frac.png" title="Fractions inline" alt="Inline fractions" >}}
 
 ### Brackets
 You can add brackets to your equations directly, except for curly braces, as
