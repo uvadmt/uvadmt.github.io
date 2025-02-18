@@ -592,6 +592,6 @@ c1 & c2 & c3
 \end{tabular}
 ```
 
-{{< figure src="table_horizonal.png" alt="Horizontal separators" >}}
+{{< figure src="table_horizontal.png" alt="Horizontal separators" >}}
 
 Note that you shouldn't ever actually make tables this ugly! A good table has as few horizontal and vertical lines as possible.
