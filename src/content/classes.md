@@ -77,3 +77,8 @@ title="Classes"
 - Reviewing Binary Relations
 - Connections between relation properties and set sizes
 - Power sets
+
+[Class 16: _Unnatural Numbers_](/post/class16)
+- Power sets
+- Practice with binary relations and set properties
+- Defining the natural numbers unnaturally

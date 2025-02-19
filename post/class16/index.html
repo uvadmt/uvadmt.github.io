@@ -9,7 +9,7 @@
   
   >
   <head>
-<title>Typesetting using Overleaf and LaTeX | cs2120: Discrete Mathematics and Theory 1</title>
+<title>Class 16: Unnatural Numbers | cs2120: Discrete Mathematics and Theory 1</title>
 <meta charset="utf-8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -19,22 +19,67 @@
 
 
 
-  
 <meta property="og:locale" content="en" />
 
 <meta property="og:type" content="article">
-<meta name="description" content="A focused introduction to LaTeX for typesetting in discrete math" />
+<meta name="description" content="Schedule
+
+Problem Set 4 is due tomorrow, 8:29pm on
+Thursday, 20 February: [PDF] [Template]
+
+Class
+
+Power sets
+Practice with binary relations and set properties …" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:creator" content="">
-<meta name="twitter:title" content="Typesetting using Overleaf and LaTeX" />
+<meta name="twitter:title" content="Class 16: Unnatural Numbers" />
 <meta name="twitter:image" content="https://uvadmt.github.io/images/thumbnail.png"/>
-<meta property="og:url" content="https://uvadmt.github.io/testlatex/" />
-<meta property="og:title" content="Typesetting using Overleaf and LaTeX" />
-<meta property="og:description" content="A focused introduction to LaTeX for typesetting in discrete math" />
+<meta property="og:url" content="https://uvadmt.github.io/post/class16/" />
+<meta property="og:title" content="Class 16: Unnatural Numbers" />
+<meta property="og:description" content="Schedule
+
+Problem Set 4 is due tomorrow, 8:29pm on
+Thursday, 20 February: [PDF] [Template]
+
+Class
+
+Power sets
+Practice with binary relations and set properties …" />
 <meta property="og:image" content="https://uvadmt.github.io/images/thumbnail.png" />
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "BlogPosting",
+      "mainEntityOfPage":"https:\/\/uvadmt.github.io\/post\/class16\/",
+      "name": "cs2120: Discrete Mathematics and Theory 1",
+      "headline": "Class 16: Unnatural Numbers",
+      "description": "\u003ch2 id=\"schedule\"\u003eSchedule\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003eProblem Set 4\u003c/strong\u003e is due \u003cstrong\u003etomorrow\u003c/strong\u003e, 8:29pm on\n\u003cstrong\u003eThursday, 20 February\u003c/strong\u003e: [\u003ca href=\"/docs/ps4.pdf\"\u003ePDF\u003c/a\u003e] [\u003ca href=\"https://www.overleaf.com/read/kdfyffygvwpn#1f06d7\"\u003eTemplate\u003c/a\u003e]\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2 id=\"class\"\u003eClass\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003ePower sets\u003c/li\u003e\n\u003cli\u003ePractice with binary relations and set properties …\u003c/li\u003e\u003c/ul\u003e",
+      "url": "https:\/\/uvadmt.github.io\/post\/class16\/",
+      "datePublished": "2025-02-19T00:00:00Z",
+      "dateModified": "2025-02-19T00:00:00Z",
+      "keywords": [],
+      "author": {
+        "@type": "Person",
+        "name": "map[name:cs2120]"
+      },
+      "image":{
+        "@type":"ImageObject",
+        "url": "https:\/\/uvadmt.github.io\/images\/thumbnail.png"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "logo": {
+          "@type":"ImageObject",
+          "url": "https:\/\/uvadmt.github.io\/icons\/dmtlogo.png"
+        },
+        "name": "cs2120: Discrete Mathematics and Theory 1"
+      }
+    }
+  </script>
 <link rel="icon" type="image/png" sizes="32x32" href="https://uvadmt.github.io/icons/dmtlogo.png">
 
-<link rel="canonical" href="https://uvadmt.github.io/testlatex/">
+<link rel="canonical" href="https://uvadmt.github.io/post/class16/">
 
 
 
@@ -113,104 +158,25 @@
   
 <div class="grid-inverse wrap content">
   <article class="post_content">
-    <h1 class="post_title">Typesetting using Overleaf and LaTeX</h1>
+    <h1 class="post_title">Class 16: Unnatural Numbers</h1>
   <div class="post_meta">
     <span class="post_date">
-      16 February 2025</span>
+      19 February 2025</span>
   </div>
 
-    <div class="post_body"><h1 id="overleaf-and-latex">Overleaf and LaTex</h1>
-<p>Overleaf is a web application for collaboratively editing documents typeset using LaTeX.</p>
-<p>LaTeX is a powerful and extensible typesetting language that allows you to produce beautiful, complex documents from structured text input. The philosophy of LaTex is for you to write without worrying about how things will look.</p>
-<p>LaTeX was developed by Leslie Lamport (who won the 2013 Turing Award for work on distributed computing) as a set of macros built on TeX to make it easier to produce documents. TeX was developed by Donald Knuth (who won the 1974 Turing Award and was among the first people to formally analyze algorithms), because he was unsatisfied with the typesetting tools available for writing <em>The Art of Computer Programming</em> (which he started writing in 1962, but is still unfinished).</p>
-<h1 id="basics">Basics</h1>
-<h2 id="source-and-rendering">&ldquo;source&rdquo; and &ldquo;rendering&rdquo;</h2>
-<p>We will refer to LaTeX that we write as &ldquo;source&rdquo;, and we will refer to the result
-of compiling some LaTeX code as its &ldquo;rendering&rdquo;. In other words, this LaTeX source:</p>
-<pre tabindex="0"><code>$P :=$ Latex is great
-</code></pre><p>Is rendered as:</p>
-<h2 id="macros">Macros</h2>
-<p>A macro in LaTeX is something that begins with <code>\</code>. This includes math
-commands like <code>\times</code> or non-math commands like <code>\textbf</code>. A macro can take zero or more parameters. Macros are analogous to functions in programming languages (but different from mathematical functions as we have discussed). Some macros only work in math mode, such as the <code>\frac</code> in the example below&mdash;the <code>$</code> is one way to denote math mode.</p>
-<pre tabindex="0"><code>\LaTeX % command with no input
-
-\textbf{Bold} % command with one input
-
-$\frac{a}{b}$ % command with two inputs
-</code></pre><figure>
-    <div style="text-align: center;">
-        <img src="commands.png"
-             alt="Commands and arguments"style="margin: 0 auto;"
-        /> </div><figcaption>
-            <h4>Commands and arguments</h4>
-        </figcaption>
-</figure>
-<p>The inputs to a macro follow the macro and each input is surrounded by curly braces (<code>{}</code>). If you don&rsquo;t use curly braces around inputs, the command will only apply to the first
-character after the command.</p>
-<pre tabindex="0"><code>\textbf Bold  % only applies to the character B
-
-$\frac ab cd$ % `a` will be the first input 
-              % and `b` the second
-</code></pre><p><figure>
-    <div style="text-align: center;">
-        <img src="commands_bad.png"
-             alt="If you don&#39;t surround command inputs with curly braces, only one character is assumed as the input."style="margin: 0 auto;"
-        /> </div><figcaption>
-            <h4>Surround command inputs with curly braces</h4>
-        </figcaption>
-</figure>
-Curly braces act as a grouping method to ensure commands apply to a sequence of
-characters.</p>
-<h2 id="comments">Comments</h2>
-<p>Comments in LaTeX start with the <code>%</code> character.  You can comment out longer regions using a conditional (started with <code>\iffalse</code> and ended with if backwards <code>\fi</code>):</p>
-<pre tabindex="0"><code>% $P :=$ Latex is great
-
-\iffalse
-This is a lot of junk that will not show up in the rendering!
-\fi
-</code></pre><h1 id="seperating-lines">Seperating Lines</h1>
-<p>One of the philosophies behind the design of LaTeX is that the structure of a document is separated from its presentation. So, most whitespace (including newlines) in the source do not influence the rendering.</p>
-<p>To start a new paragraph in LaTeX use two new lines (i.e., a blank line):</p>
-<pre tabindex="0"><code>Paragraph 1.
-Second line in paragraph 1.
-
-Paragraph 2. Second sentence in paragraph 2.
-Third sentence in paragraph 2.
-</code></pre><figure>
-    <div style="text-align: center;">
-        <img src="paragraph.png"
-             alt=" Text is separated into paragraphs using two end-line characters."style="margin: 0 auto;"
-        /> </div><figcaption>
-            <h4>Paragraph separation</h4>
-        </figcaption>
-</figure>
-<p>You can also use the <code>\\</code> command to start a new line without starting a new paragraph:</p>
-<pre tabindex="0"><code>Sentence 1, paragraph 1.\\
-Sentence 2, paragraph 1.\\Sentence, paragraph 1.
-
-New paragraph.
-</code></pre><figure>
-    <div style="text-align: center;">
-        <img src="linebreak.png"
-             alt="Breaking lines in a paragraph"style="margin: 0 auto;"
-        /> </div><figcaption>
-            <h4>Breaking lines in a paragraph</h4>
-        </figcaption>
-</figure>
-<p>Why ignore new lines?</p>
-<p>This might seem annoying at first since it&rsquo;s more natural to separate paragraphs with a single end-line. However, this comes in handy in two respects. First, when writing long paragraphs with equations or links, it might be easier to edit when these big things are separate. For example,</p>
-<pre><code>
-Given that we know
-$a = 2b+c$
-and that
-$c\in\{0,1\}$, 
-then we can conclude that the statement is true.
-</code></pre>
-<p>might be easier to edit than</p>
-<pre><code>
-Given that we know $a = 2b+c$ and that $c\in\{0,1\}$, then we can conclude that the statement is true.
-</code></pre>
-<p>The second reason is version control. If you&rsquo;re keeping track of your document using Git, for example, it&rsquo;s better to separate paragraphs into shorter segments so smaller changes are easy to track.</p>
+    <div class="post_body"><h2 id="schedule">Schedule</h2>
+<ul>
+<li><strong>Problem Set 4</strong> is due <strong>tomorrow</strong>, 8:29pm on
+<strong>Thursday, 20 February</strong>: [<a href="/docs/ps4.pdf">PDF</a>] [<a href="https://www.overleaf.com/read/kdfyffygvwpn#1f06d7">Template</a>]</li>
+</ul>
+<h2 id="class">Class</h2>
+<ul>
+<li>Power sets</li>
+<li>Practice with binary relations and set properties</li>
+<li>Defining the natural numbers unnaturally</li>
+</ul>
+<p>10am Section: [<a href="https://www.dropbox.com/scl/fi/uzezdu2hanx19wc759wtj/cs2120-class16-dave.pdf?rlkey=qnrqszejbr966fq3cmtla8w5z&amp;dl=0">Slides (PDF)</a>] [<a href="https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3dd186ef-c4ac-4b0e-8184-b28900f6fb20">Video</a>]<br>
+2pm Section: [<a href="https://virginia.box.com/s/d5e33h9wm3482i0q6trhua7sabewqep8">Slides (PDF)</a>] [<a href="https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb23cec9-2f54-4d39-b146-b28701397354">Video</a>]</p>
 
     </div>
 <div class="post_comments">
