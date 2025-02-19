@@ -16,4 +16,4 @@ slug="class16"
 - Defining the natural numbers unnaturally
 
 10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/uzezdu2hanx19wc759wtj/cs2120-class16-dave.pdf?rlkey=qnrqszejbr966fq3cmtla8w5z&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3dd186ef-c4ac-4b0e-8184-b28900f6fb20)]   
-2pm Section: [[Slides (PDF)](https://virginia.box.com/s/d5e33h9wm3482i0q6trhua7sabewqep8)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb23cec9-2f54-4d39-b146-b28701397354)]
+2pm Section: [[Slides (PDF)](https://virginia.box.com/s/zrbmft0qzencaobxfph07rkckkrgs45a)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05127816-2389-469b-a137-b289015a24ee)]
