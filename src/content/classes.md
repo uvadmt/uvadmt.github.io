@@ -82,3 +82,7 @@ title="Classes"
 - Power sets
 - Practice with binary relations and set properties
 - Defining the natural numbers unnaturally
+
+[Class 17: _From Sets to Everything_ (or at least 2+2)](/post/class17)
+- Natural numbers from sets
+- Operations on the natural numbers: 2+2=4
