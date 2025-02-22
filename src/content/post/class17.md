@@ -6,7 +6,9 @@ slug="class17"
 
 ## Schedule
 
-- **Test 2** is in class on **Wednesday, 26 20 February**. See the [Preparation Guide for Test 2](/docs/preptest2.pdf).
+- **Test 2** is in class on **Wednesday, 26 February**. See the [Preparation Guide for Test 2](/docs/preptest2.pdf).
+- If you have problems or topics you would like to be reviewed in Monday's class, send them to Aidan or Dave by Sunday night.
+- The TAs will hold a test review on **Monday, 24 February** from **5:00 pm - 6:30 pm** in **Olsson 009**.
 
 ## Class
 
