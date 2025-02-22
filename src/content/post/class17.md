@@ -14,7 +14,5 @@ slug="class17"
 - Operations on the natural numbers: 2+2=4
 
 
-10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/8rc7veuwpafjblsp8pbw3/cs2120-class17-dave.pdf?rlkey=p5p9uyo1gnnkp1l04uj34vhs2&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af672d20-c747-4e6f-b79b-b28b00f74195)]  
-<!--    
-2pm Section: [[Slides (PDF)](https://virginia.box.com/s/zrbmft0qzencaobxfph07rkckkrgs45a)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05127816-2389-469b-a137-b289015a24ee)]
--->
+10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/8rc7veuwpafjblsp8pbw3/cs2120-class17-dave.pdf?rlkey=p5p9uyo1gnnkp1l04uj34vhs2&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af672d20-c747-4e6f-b79b-b28b00f74195)] 
+2pm Section: [[Slides (PDF)](https://virginia.box.com/s/wo4f8xxc4sry0i1imdsqxpr7e5fb1sed)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fbf1136a-b72a-46a5-8e11-b28c0022b827)]
