@@ -86,3 +86,5 @@ title="Classes"
 [Class 17: _From Sets to Everything_ (or at least 2+2)](/post/class17)
 - Natural numbers from sets
 - Operations on the natural numbers: 2+2=4
+
+[Class 18: Review for Test 2](/post/class18)
