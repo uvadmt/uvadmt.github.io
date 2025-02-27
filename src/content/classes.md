@@ -88,3 +88,6 @@ title="Classes"
 - Operations on the natural numbers: 2+2=4
 
 [Class 18: Review for Test 2](/post/class18)
+
+[Class 19: Test 2](/post/class19)
+
