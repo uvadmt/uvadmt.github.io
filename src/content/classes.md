@@ -91,3 +91,7 @@ title="Classes"
 
 [Class 19: Test 2](/post/class19)
 
+[Class 20: Well Ordering](/post/class20)
+- Ordering Sets
+- Well Ordering
+- Proofs using the Well Ordering Principle
