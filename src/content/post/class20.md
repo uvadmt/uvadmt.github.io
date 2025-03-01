@@ -6,8 +6,7 @@ slug="class20"
 
 ## Schedule
 
-- **Problem Set 5** is due 8:29pm on
-**Thursday, 6 March**: <!--[[PDF](/docs/ps4.pdf)]--> [[Template](https://www.overleaf.com/read/mnpgvnvtyxbq#03c118)]
+- **Problem Set 5** is due 8:29pm on **Thursday, 6 March**: [[PDF](/docs/ps5.pdf)] [[Template](https://www.overleaf.com/read/mnpgvnvtyxbq#03c118)]
 
 ## Class
 
