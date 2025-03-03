@@ -1,18 +1,18 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/aidansan/Documents/sp25/dmt/uvadmt.github.io/src",
+	"sourceRoot": "/home/muakasan/windows_home/Documents/SP25/dmt/uvadmt.github.io/src",
 	"sources": [
 		"themes/dmt1/assets/sass/main.sass",
-		"themes/dmt1/assets/sass/_variables.sass",
-		"themes/dmt1/assets/sass/_override.sass",
-		"themes/dmt1/assets/sass/_fonts.sass",
-		"themes/dmt1/assets/sass/_base.sass",
-		"themes/dmt1/assets/sass/_components.sass",
-		"themes/dmt1/assets/sass/_utils.sass",
-		"themes/dmt1/assets/sass/_mobile.sass",
-		"themes/dmt1/assets/sass/_syntax.sass",
-		"themes/dmt1/assets/sass/_custom.sass"
+		"../../../../../../../../../home/muakasan/windows_home/Documents/SP25/dmt/uvadmt.github.io/src/themes/dmt1/assets/sass/_variables.sass",
+		"../../../../../../../../../home/muakasan/windows_home/Documents/SP25/dmt/uvadmt.github.io/src/themes/dmt1/assets/sass/_override.sass",
+		"../../../../../../../../../home/muakasan/windows_home/Documents/SP25/dmt/uvadmt.github.io/src/themes/dmt1/assets/sass/_fonts.sass",
+		"../../../../../../../../../home/muakasan/windows_home/Documents/SP25/dmt/uvadmt.github.io/src/themes/dmt1/assets/sass/_base.sass",
+		"../../../../../../../../../home/muakasan/windows_home/Documents/SP25/dmt/uvadmt.github.io/src/themes/dmt1/assets/sass/_components.sass",
+		"../../../../../../../../../home/muakasan/windows_home/Documents/SP25/dmt/uvadmt.github.io/src/themes/dmt1/assets/sass/_utils.sass",
+		"../../../../../../../../../home/muakasan/windows_home/Documents/SP25/dmt/uvadmt.github.io/src/themes/dmt1/assets/sass/_mobile.sass",
+		"../../../../../../../../../home/muakasan/windows_home/Documents/SP25/dmt/uvadmt.github.io/src/themes/dmt1/assets/sass/_syntax.sass",
+		"../../../../../../../../../home/muakasan/windows_home/Documents/SP25/dmt/uvadmt.github.io/src/themes/dmt1/assets/sass/_custom.sass"
 	],
 	"sourcesContent": [
 		"$baseURL: 'https://uvadmt.github.io/';\n$fontsPath: '../fonts/';\n$imagesPath: '../images/';\n$iconsPath: '../icons/';\n@import 'variables';\n@import 'override';\n@import 'fonts';\n@import 'base';\n@import 'components';\n@import 'utils';\n@import 'mobile';\n@import 'syntax';\n@import 'custom';\n",
