@@ -95,3 +95,7 @@ title="Classes"
 - Ordering Sets
 - Well Ordering
 - Proofs using the Well Ordering Principle
+
+[Class 21: Proving Well Ordering](/post/class21)
+- Well Ordering
+- Proofs using the Well Ordering Principle
