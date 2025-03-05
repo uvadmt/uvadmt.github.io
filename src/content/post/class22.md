@@ -8,6 +8,8 @@ slug="class22"
 
 - **Problem Set 5** is due tomorrow, 8:29pm on **Thursday, 6 March**: [[PDF](/docs/ps5.pdf)] [[Template](https://www.overleaf.com/read/mnpgvnvtyxbq#03c118)]
 
+- Here's the info on the ACM Dinner (with Dave) that Shreyas talked about: **19 March, 6-8 PM**, Rice 103 with food from "Lucky Blue's". To signup: https://forms.gle/hJTGiWYivWvapRnv5
+
 ## Class
 
 - Revisiting the Well-Ordered Definition
