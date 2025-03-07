@@ -1,6 +1,6 @@
 +++
 date= "2025-03-07"
-title="Class 23: &omega; Z, ZF, ZFC, and Zero"
+title="Class 23: &omega;, Z, ZF, ZFC, and Zero"
 slug="class23"
 +++
 
