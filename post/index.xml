@@ -6,32 +6,26 @@
     <description>Recent content in Posts on cs2120: Discrete Mathematics and Theory 1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Class 22: Weller Ordering</title>
-      <link>https://uvadmt.github.io/post/class22/</link>
-      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <title>Class 23: &amp;omega; Z, ZF, ZFC, and Zero</title>
+      <link>https://uvadmt.github.io/post/class23/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://uvadmt.github.io/post/class22/</guid>
+      <guid>https://uvadmt.github.io/post/class23/</guid>
       <description>
         
           
             &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Problem Set 5&lt;/strong&gt; is due tomorrow, 8:29pm on &lt;strong&gt;Thursday, 6 March&lt;/strong&gt;: [&lt;a href=&#34;https://uvadmt.github.io/docs/ps5.pdf&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;https://www.overleaf.com/read/mnpgvnvtyxbq#03c118&#34;&gt;Template&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Enjoy Spring Break!&lt;/strong&gt; There are not required assignments due until PS6, which will be due on Thursday, 27 March.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Problem Set ω&lt;/strong&gt; is an optional problem set that is not like the others, and will be posted soon. It will be due on Thursday, 20 March, 8:29pm.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Here&amp;rsquo;s the info on the ACM Dinner (with Dave) that Shreyas talked about: &lt;strong&gt;19 March, 6-8 PM&lt;/strong&gt;, Rice 103 with food from &amp;ldquo;Lucky Blue&amp;rsquo;s&amp;rdquo;. To signup: &lt;a href=&#34;https://forms.gle/hJTGiWYivWvapRnv5&#34;&gt;https://forms.gle/hJTGiWYivWvapRnv5&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;class&#34;&gt;Class&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Revisiting the Well-Ordered Definition&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Are all ordered finite sets well ordered&lt;/em&gt;?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;10am Section: [&lt;a href=&#34;https://www.dropbox.com/s/qwqj42xhtxhkifd/cs2120-class22-dave.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;] [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0d1d3b15-9469-4c0b-ab5a-b29700f7eaec&#34;&gt;Video&lt;/a&gt;]
-2pm Section: [&lt;a href=&#34;https://virginia.box.com/s/q7f0q8j34czkh11volzmclytco3559yh&#34;&gt;Slides (PDF)&lt;/a&gt;] [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=680e7dd6-dd24-44ac-a55b-b297013942f8&#34;&gt;Video&lt;/a&gt;]&lt;/p&gt;
           
           
         
@@ -61,7 +55,7 @@
 &lt;li&gt;Revisiting the Well-Ordered Definition&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Are all ordered finite sets well ordered&lt;/em&gt;?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;10am Section: [&lt;a href=&#34;https://www.dropbox.com/s/qwqj42xhtxhkifd/cs2120-class22-dave.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;] [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0d1d3b15-9469-4c0b-ab5a-b29700f7eaec&#34;&gt;Video&lt;/a&gt;]
+&lt;p&gt;10am Section: [&lt;a href=&#34;https://www.dropbox.com/s/qwqj42xhtxhkifd/cs2120-class22-dave.pdf?dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;] [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0d1d3b15-9469-4c0b-ab5a-b29700f7eaec&#34;&gt;Video&lt;/a&gt;]&lt;br&gt;
 2pm Section: [&lt;a href=&#34;https://virginia.box.com/s/q7f0q8j34czkh11volzmclytco3559yh&#34;&gt;Slides (PDF)&lt;/a&gt;] [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=680e7dd6-dd24-44ac-a55b-b297013942f8&#34;&gt;Video&lt;/a&gt;]&lt;/p&gt;
           
           

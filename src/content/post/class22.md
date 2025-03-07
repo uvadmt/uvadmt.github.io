@@ -15,5 +15,5 @@ slug="class22"
 - Revisiting the Well-Ordered Definition
 - _Are all ordered finite sets well ordered_?
 
-10am Section: [[Slides (PDF)](https://www.dropbox.com/s/qwqj42xhtxhkifd/cs2120-class22-dave.pdf?dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0d1d3b15-9469-4c0b-ab5a-b29700f7eaec)] 
+10am Section: [[Slides (PDF)](https://www.dropbox.com/s/qwqj42xhtxhkifd/cs2120-class22-dave.pdf?dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0d1d3b15-9469-4c0b-ab5a-b29700f7eaec)]  
 2pm Section: [[Slides (PDF)](https://virginia.box.com/s/q7f0q8j34czkh11volzmclytco3559yh)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=680e7dd6-dd24-44ac-a55b-b297013942f8)]
