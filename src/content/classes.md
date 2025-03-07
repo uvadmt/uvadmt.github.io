@@ -99,3 +99,12 @@ title="Classes"
 [Class 21: Proving Well Ordering](/post/class21)
 - Well Ordering
 - Proofs using the Well Ordering Principle
+
+[Class 22: Weller Ordering](/post/class22)
+- Revisiting the Well-Ordered Definition
+- _Are all ordered finite sets well ordered_?
+
+[Class 23: &omega; Z, ZF, ZFC, and Zero](/post/class23)
+- &omega; (omega)
+- Z, ZF, ZFC and the General Well Ordering Theorem
+- _Is Zero a Natural Number?_
