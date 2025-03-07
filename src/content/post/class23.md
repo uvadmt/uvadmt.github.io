@@ -19,5 +19,4 @@ slug="class23"
 - _Is Zero a Natural Number?_
 
 10am Section: [[Slides (PDF)](https://www.dropbox.com/s/5rzc88clyfuh6bf/cs2120-class23-dave.pdf?dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9583f447-534e-4c1e-ab6e-b29900f729aa)]  
-<!--2pm Section: [[Slides (PDF)](https://virginia.box.com/s/q7f0q8j34czkh11volzmclytco3559yh)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=680e7dd6-dd24-44ac-a55b-b297013942f8)]
--->
+2pm Section: [[Slides (PDF)](https://www.dropbox.com/s/ozkrwpgd1zdo8ur/cs2120-class23-dave2.pdf?dl=0)] (I wasn't able to get the video recorder to work for this class, but content was the same as for the 10am section: [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9583f447-534e-4c1e-ab6e-b29900f729aa)]
