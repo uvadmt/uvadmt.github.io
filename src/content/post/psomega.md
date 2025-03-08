@@ -8,7 +8,7 @@ slug="class23"
 
 - **Enjoy Spring Break!** There are not required assignments due until PS6, which will be due on Thursday, 27 March.
 
-- **Problem Set &omega;** is an optional problem set that is not like the others. It is [posted here](/post/psomega) and due on Thursday, 20 March, 8:29pm.
+- **Problem Set &omega;** is an optional problem set that is not like the others, and will be posted soon. It will be due on Thursday, 20 March, 8:29pm.
 
 - Here's the info on the ACM Dinner (with Dave) that Shreyas talked about: **19 March, 6-8 PM**, Rice 103 with food from "Lucky Blue's". To signup: https://forms.gle/hJTGiWYivWvapRnv5
 
