@@ -6,26 +6,18 @@
     <description>Recent content in Posts on cs2120: Discrete Mathematics and Theory 1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Class 23: &amp;omega;, Z, ZF, ZFC, and Zero</title>
-      <link>https://uvadmt.github.io/post/class23/</link>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <title>Problem Set &amp;omega;</title>
+      <link>https://uvadmt.github.io/post/psomega/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://uvadmt.github.io/post/class23/</guid>
+      <guid>https://uvadmt.github.io/post/psomega/</guid>
       <description>
         
           
-            &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Enjoy Spring Break!&lt;/strong&gt; There are not required assignments due until PS6, which will be due on Thursday, 27 March.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Problem Set ω&lt;/strong&gt; is an optional problem set that is not like the others. It is &lt;a href=&#34;https://uvadmt.github.io/post/psomega&#34;&gt;posted here&lt;/a&gt; and due on Thursday, 20 March, 8:29pm.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Here&amp;rsquo;s the info on the ACM Dinner (with Dave) that Shreyas talked about: &lt;strong&gt;19 March, 6-8 PM&lt;/strong&gt;, Rice 103 with food from &amp;ldquo;Lucky Blue&amp;rsquo;s&amp;rdquo;. To signup: &lt;a href=&#34;https://forms.gle/hJTGiWYivWvapRnv5&#34;&gt;https://forms.gle/hJTGiWYivWvapRnv5&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;strong&gt;Problem Set ω&lt;/strong&gt; is an optional problem set that is not like the others. Instead of providing an overleaf template for this, the assignment is in a Colab Notebook here: &lt;a href=&#34;https://colab.research.google.com/drive/1NdhFoSX1xFW9iPHgXVFydwRTbQ3O7EA4?usp=sharing&#34;&gt;Problem Set ω Notebook&lt;/a&gt;.We hope you will find it worthwhile, but it is not required and not graded like the other problem sets. Read the directions in the assignment for details.&lt;/p&gt;
+&lt;p&gt;You should be able to get started on this by clicking the link above, and then select &lt;code&gt;File | Save a copy in Drive&lt;/code&gt; to have an editable and executable version to use for your work. (Note that this does require a Google account. If you prefer not to have a Google account and share your work with Google (which we find admirable), you can instead download the notebook and do your work locally.)&lt;/p&gt;
           
           
         
@@ -47,7 +39,7 @@
 &lt;p&gt;&lt;strong&gt;Enjoy Spring Break!&lt;/strong&gt; There are not required assignments due until PS6, which will be due on Thursday, 27 March.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Problem Set ω&lt;/strong&gt; is an optional problem set that is not like the others, and will be posted soon. It will be due on Thursday, 20 March, 8:29pm.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Problem Set ω&lt;/strong&gt; is an optional problem set that is not like the others. It is &lt;a href=&#34;https://uvadmt.github.io/post/psomega&#34;&gt;posted here&lt;/a&gt; and due on Thursday, 20 March, 8:29pm.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Here&amp;rsquo;s the info on the ACM Dinner (with Dave) that Shreyas talked about: &lt;strong&gt;19 March, 6-8 PM&lt;/strong&gt;, Rice 103 with food from &amp;ldquo;Lucky Blue&amp;rsquo;s&amp;rdquo;. To signup: &lt;a href=&#34;https://forms.gle/hJTGiWYivWvapRnv5&#34;&gt;https://forms.gle/hJTGiWYivWvapRnv5&lt;/a&gt;&lt;/p&gt;
