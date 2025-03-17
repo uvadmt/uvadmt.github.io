@@ -108,3 +108,9 @@ title="Classes"
 - &omega; (omega)
 - Z, ZF, ZFC and the General Well Ordering Theorem
 - _Is Zero a Natural Number?_
+
+[Class 24: Induction Principle](/post/class24)
+- Story so Far and Where We are Going
+- Induction Principle
+- Proofs using the Induction Principle
+
