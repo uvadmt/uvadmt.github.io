@@ -15,4 +15,4 @@ slug="class24"
 - Proofs using the Induction Principle
 
 10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/o6esm67gpakgkrgkahl3c/cs2120-class24-dave.pdf?rlkey=u5falc5h3gkafribv72luqlib&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46c30b2c-39b4-496f-9901-b2a300e6bfdd)]  
-<!-- 2pm Section: [[Slides (PDF)](https://www.dropbox.com/s/ozkrwpgd1zdo8ur/cs2120-class23-dave2.pdf?dl=0)] (I wasn't able to get the video recorder to work for this class, but content was the same as for the 10am section: [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9583f447-534e-4c1e-ab6e-b29900f729aa)]-->
+2pm Section: [[Slides (PDF)](https://virginia.box.com/s/h40fpckv3muy34g9vm9vkfss0tom4nba)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=59f62a1f-2602-4590-9c9a-b2a30128a78b)]
