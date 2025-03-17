@@ -6,7 +6,34 @@
     <description>Recent content in Posts on cs2120: Discrete Mathematics and Theory 1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 24: Induction Principle</title>
+      <link>https://uvadmt.github.io/post/class24/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvadmt.github.io/post/class24/</guid>
+      <description>
+        
+          
+            &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Problem Set ω&lt;/strong&gt; is an optional problem set that is not like the others. It is &lt;a href=&#34;https://uvadmt.github.io/post/psomega&#34;&gt;posted here&lt;/a&gt; and due on Thursday, 20 March, 8:29pm.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;class&#34;&gt;Class&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Story so Far and Where We are Going&lt;/li&gt;
+&lt;li&gt;Induction Principle&lt;/li&gt;
+&lt;li&gt;Proofs using the Induction Principle&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;10am Section: [&lt;a href=&#34;https://www.dropbox.com/scl/fi/o6esm67gpakgkrgkahl3c/cs2120-class24-dave.pdf?rlkey=u5falc5h3gkafribv72luqlib&amp;amp;dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;] [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46c30b2c-39b4-496f-9901-b2a300e6bfdd&#34;&gt;Video&lt;/a&gt;]&lt;/p&gt;
+&lt;!-- 2pm Section: [[Slides (PDF)](https://www.dropbox.com/s/ozkrwpgd1zdo8ur/cs2120-class23-dave2.pdf?dl=0)] (I wasn&#39;t able to get the video recorder to work for this class, but content was the same as for the 10am section: [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9583f447-534e-4c1e-ab6e-b29900f729aa)]--&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Problem Set &amp;omega;</title>
       <link>https://uvadmt.github.io/post/psomega/</link>
