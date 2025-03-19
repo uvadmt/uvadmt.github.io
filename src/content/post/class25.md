@@ -1,18 +1,17 @@
 +++
-date= "2025-03-17"
+date= "2025-03-19"
 title="Class 25: Proofs by Induction"
 slug="class25"
 +++
 
 ## Schedule
 
-- **Problem Set 6** is now posted and is due on Thursday, March 27, 8:29pm. Template: https://www.overleaf.com/read/yjrqbnkbypmv#6bb8bc [[PDF](/docs/ps6.pdf)]
+- **Problem Set 6** is now posted and is due on Thursday, March 27, 8:29pm. Template:&nbsp;https://www.overleaf.com/read/yjrqbnkbypmv#6bb8bc [[PDF](/docs/ps6.pdf)]
 
 - **Problem Set &omega;** is an optional problem set that is not like the others. It is [posted here](/post/psomega) and due on Thursday, 20 March, 8:29pm.
 
 ## Class
 
-- Reviewing Induction Principle
 Proofs using the Induction Principle:
 - Gauss Sum
 - Power set size
