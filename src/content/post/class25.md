@@ -17,5 +17,6 @@ Proofs using the Induction Principle:
 - Power set size
 
 10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/5qlku9rga8wu5lj69gplg/cs2120-class25-dave.pdf?rlkey=tb14x64ptx27ag829m0nk367w&dl=0)] [Something is messed up with the video, sorry!]
+
 2pm Section: [[Slides (PDF)](https://virginia.box.com/s/9sjnxknpmw9egwh2sbbsh8two63rkd4w)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f7484567-0949-4d4e-8fbd-b2a50128e1fe)]
 
