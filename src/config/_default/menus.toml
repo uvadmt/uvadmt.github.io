@@ -24,6 +24,15 @@
   url = "/classes/"
   weight = -105
 
+[[main]]
+  name = "Problem Sets"
+  url = "/ps/"
+  weight = -104
+
+[[main]]
+  name = "Tests"
+  url = "/tests/"
+  weight = -103
 
 [[main]]
   name = "MCS Book"
