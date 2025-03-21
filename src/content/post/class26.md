@@ -17,10 +17,9 @@ Note that we have made a update to the solution to the last problem on Test 2: i
 
 ## Class
 
-- Power set size proof
-- All finite sets have a minimum proof
+- Power Set size proof
 
-10am Section: <!-- [[Slides (PDF)](https://www.dropbox.com/scl/fi/5qlku9rga8wu5lj69gplg/cs2120-class25-dave.pdf?rlkey=tb14x64ptx27ag829m0nk367w&dl=0)] [Something is messed up with the video, sorry!]-->
+10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/944aa7dgigdft52wuf7h1/cs2120-class26-dave.pdf?rlkey=3iid25ldfzfomy2ts9txom0rf&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3356965a-ee6a-4e7e-8c91-b2a700e66e27)]  
 <!--
 2pm Section: [[Slides (PDF)](https://virginia.box.com/s/9sjnxknpmw9egwh2sbbsh8two63rkd4w)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f7484567-0949-4d4e-8fbd-b2a50128e1fe)]
 
