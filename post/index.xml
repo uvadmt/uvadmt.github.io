@@ -18,7 +18,7 @@
           
             &lt;h2 id=&#34;website-update&#34;&gt;Website Update&lt;/h2&gt;
 &lt;p&gt;The &lt;a href=&#34;https://uvadmt.github.io/ps&#34;&gt;Problem Sets&lt;/a&gt; and &lt;a href=&#34;https://uvadmt.github.io/tests&#34;&gt;Tests&lt;/a&gt; are now available on easy to find pages on the course website (and the menu).&lt;/p&gt;
-&lt;p&gt;Note that we have made a update to the solution to the last problem on Test 2: it is true that the set $\mathbb{M}$ only contains the element $\emptyset$, but there are many &lt;em&gt;indonktive sets&lt;/em&gt; (including one that contains the elements that correspond to the set of natural numbers). The key aspect of the definition of $\mathbb{M}$ is that it is the elements that are in &lt;em&gt;any&lt;/em&gt; indonktive set, so for an element to be in $\mathbb{M}$ it has to be in &lt;em&gt;every&lt;/em&gt; indonktive set, and the only element that is in every indonktive set is $\emptyset$. (Thanks to Alex Boback for noticing this!)&lt;/p&gt;
+&lt;p&gt;Note that we have made a update to the solution to the last problem on Test 2: it is true that the set \( \mathbb{M} \) only contains the element \( \emptyset \), but there are many &lt;em&gt;indonktive sets&lt;/em&gt; (including one that contains the elements that correspond to the set of natural numbers). The key aspect of the definition of \( \mathbb{M} \) is that it is the elements that are in &lt;em&gt;any&lt;/em&gt; indonktive set, so for an element to be in \( \mathbb{M} \) it has to be in &lt;em&gt;every&lt;/em&gt; indonktive set, and the only element that is in every indonktive set is \( \emptyset \). (Thanks to Alex Boback for noticing this!)&lt;/p&gt;
           
           
         
