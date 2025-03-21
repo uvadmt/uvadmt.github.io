@@ -1,5 +1,5 @@
 +++
-date= "2025-03-11"
+date= "2025-03-21"
 title="Class 26: Power(set) of Induction"
 slug="class26"
 +++
