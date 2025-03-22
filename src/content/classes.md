@@ -118,5 +118,5 @@ title="Classes"
 - Gauss Sum
 - Power set size
 
-[Class 26: Power of Induction ProofsProofs using the Induction Principle](/post/class26)
+[Class 26: Power of Induction Proofs](/post/class26)
 - Finishing the power set size proof
