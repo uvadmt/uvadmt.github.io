@@ -6,7 +6,36 @@
     <description>Recent content on cs2120: Discrete Mathematics and Theory 1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 27: Induction Takeaways</title>
+      <link>https://uvadmt.github.io/post/class27/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvadmt.github.io/post/class27/</guid>
+      <description>
+        
+          
+            &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Problem Set 6&lt;/strong&gt; is due on Thursday, March 27, 8:29pm: [&lt;a href=&#34;https://uvadmt.github.io/docs/ps6.pdf&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;https://www.overleaf.com/read/yjrqbnkbypmv#6bb8bc&#34;&gt;Template&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Test 3&lt;/strong&gt; will be in class on Wednesday, 2 April (will be similar in format to Test 2; we will provide a preparation guide with practice problems on Friday)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;class&#34;&gt;Class&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Defining the takeaway game&lt;/li&gt;
+&lt;li&gt;Proof that takeaway always finishes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;10am Section: [&lt;a href=&#34;https://www.dropbox.com/scl/fi/14heycweet1n96dk0nyjk/cs2120-class27-dave.pdf?rlkey=5nfpl0spxe5vsuljwy1m7dzd2&amp;amp;dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;] [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2d44b39e-6d90-4e9b-886c-b2aa00e68586&#34;&gt;Video&lt;/a&gt;]&lt;/p&gt;
+&lt;!--
+2pm Section: [[Slides (PDF)](https://virginia.box.com/s/702q7wc4fp15omaljal54mrjmt8utemu)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29cad3e2-d85c-479e-954f-b2a70129092a)]
+--&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Class 26: Power(set) of Induction</title>
       <link>https://uvadmt.github.io/post/class26/</link>
