@@ -15,6 +15,5 @@ slug="class27"
 - Proof that takeaway always finishes
 
 10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/14heycweet1n96dk0nyjk/cs2120-class27-dave.pdf?rlkey=5nfpl0spxe5vsuljwy1m7dzd2&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2d44b39e-6d90-4e9b-886c-b2aa00e68586)]  
-
 2pm Section: [[Slides (PDF)](hhttps://virginia.box.com/s/lcggiuu938hfw1wg54p099zb6twnwsig)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af835e0a-2053-4bce-a12c-b2aa0128cc15)]
 

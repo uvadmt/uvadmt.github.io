@@ -20,5 +20,4 @@ Note that we have made a update to the solution to the last problem on Test 2: i
 - Power Set size proof
 
 10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/944aa7dgigdft52wuf7h1/cs2120-class26-dave.pdf?rlkey=3iid25ldfzfomy2ts9txom0rf&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3356965a-ee6a-4e7e-8c91-b2a700e66e27)]  
-
 2pm Section: [[Slides (PDF)](https://virginia.box.com/s/702q7wc4fp15omaljal54mrjmt8utemu)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29cad3e2-d85c-479e-954f-b2a70129092a)]

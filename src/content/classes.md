@@ -120,3 +120,7 @@ title="Classes"
 
 [Class 26: Power of Induction Proofs](/post/class26)
 - Finishing the power set size proof
+
+[Class 27: Induction Takeaways](/post/class27)
+- Defining the takeaway game
+- Proof that takeaway always finishes
