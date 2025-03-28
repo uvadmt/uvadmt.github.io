@@ -6,7 +6,35 @@
     <description>Recent content in Posts on cs2120: Discrete Mathematics and Theory 1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 29: Induction and Well Ordering Principle</title>
+      <link>https://uvadmt.github.io/post/class29/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvadmt.github.io/post/class29/</guid>
+      <description>
+        
+          
+            &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Test 3&lt;/strong&gt; will be in class on Wednesday, 2 April. See the
+&lt;a href=&#34;https://uvadmt.github.io/docs/preptest3.pdf&#34;&gt;&lt;strong&gt;Preparation Guide for Test 3&lt;/strong&gt;&lt;/a&gt; for practice problems, and send me a DM for any topics or problems you want covered in the review class on Monday.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;class&#34;&gt;Class&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Proofs using stronger induction&lt;/li&gt;
+&lt;li&gt;Winning the Takeaway game&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;10am Section: [&lt;a href=&#34;https://www.dropbox.com/scl/fi/h1clss5mxh59bzbfyc99m/cs2120-class29-dave.pdf?rlkey=4qklf62sxrbloub7zdxq2o0wh&amp;amp;dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;] [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a21fd802-6e45-4442-9d21-b2ae00e6c0e8&#34;&gt;Video&lt;/a&gt;]&lt;/p&gt;
+&lt;!-- 2pm Section: [[Slides (PDF)](https://virginia.box.com/s/zzewyyiwdiubzciuzy5yfczn4xinscdj)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d03c3407-4a72-4c3f-8960-b2ac0128ce94)]
+--&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Preparing for Test 3</title>
       <link>https://uvadmt.github.io/post/preptest3/</link>
@@ -18,7 +46,7 @@
           
             &lt;p&gt;Test 3 will be in class on &lt;strong&gt;Wednesday, 2 April&lt;/strong&gt;. This will use the normal class time, so you will have 50 minutes to complete the test. The test will be similar to Test 2, but focused on new content.&lt;/p&gt;
 &lt;p&gt;This preparation guide has advice on how to prepare for the test, and problems to practice to be confident you are ready for the test:&lt;/p&gt;
-&lt;center&gt;
+&lt;center&gt;0
 &lt;p&gt;&lt;a href=&#34;https://uvadmt.github.io/docs/preptest3.pdf&#34;&gt;&lt;strong&gt;Preparation Guide for Test 3&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
           
           

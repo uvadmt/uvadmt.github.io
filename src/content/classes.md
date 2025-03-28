@@ -124,3 +124,10 @@ title="Classes"
 [Class 27: Induction Takeaways](/post/class27)
 - Defining the takeaway game
 - Proof that takeaway always finishes
+
+[Class 28: Stronger (?) Induction](/post/class28)
+- Proofs using stronger induction
+- Winning the Takeaway game
+
+[Class 29: Induction and Well Ordering Principle](/post/class29)
+- Betable Numbers (by Well Ordering Principle and by Induction Principle)
