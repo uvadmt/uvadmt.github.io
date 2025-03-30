@@ -15,5 +15,4 @@ slug="class29"
 - Winning the Takeaway game
 
 10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/h1clss5mxh59bzbfyc99m/cs2120-class29-dave.pdf?rlkey=4qklf62sxrbloub7zdxq2o0wh&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a21fd802-6e45-4442-9d21-b2ae00e6c0e8)]  
-<!-- 2pm Section: [[Slides (PDF)](https://virginia.box.com/s/zzewyyiwdiubzciuzy5yfczn4xinscdj)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d03c3407-4a72-4c3f-8960-b2ac0128ce94)]
--->
+2pm Section: [[Slides (PDF)](https://virginia.box.com/s/t3z8rzr227f0j68l9nuge86oys10q7h6)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=080a7043-27b3-4aef-8f8f-b2ae0128f1be)]
