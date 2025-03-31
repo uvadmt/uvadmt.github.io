@@ -131,3 +131,8 @@ title="Classes"
 
 [Class 29: Induction and Well Ordering Principle](/post/class29)
 - Betable Numbers (by Well Ordering Principle and by Induction Principle)
+
+[Class 30: Review for Test 3](/post/class30)
+- Review for Test 3
+- Practice Problems
+- Flavors of Induction
