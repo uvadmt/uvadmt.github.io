@@ -17,5 +17,4 @@ slug="class30"
 - Flavors of Induction
 
 10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/9ysfnm0dohknnide6wzhu/cs2120-class30-dave.pdf?rlkey=83omsv0ztc8efcu5jjwpl41kj&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5ff5c5b0-bdc3-4610-b492-b2b100e68920)]  
-<!-- 2pm Section: [[Slides (PDF)](https://virginia.box.com/s/t3z8rzr227f0j68l9nuge86oys10q7h6)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=080a7043-27b3-4aef-8f8f-b2ae0128f1be)]
--->
+2pm Section: [[Slides (PDF)](https://virginia.box.com/s/ujhi2h087avl3cenku5bk1a5wkv91iw1)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7353c817-3a6f-4847-ae40-b2b101288d76)]
