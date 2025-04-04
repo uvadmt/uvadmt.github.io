@@ -1,20 +1,18 @@
 +++
-date= "2025-03-31"
-title="Class 30: Review for Test 3"
-slug="class30"
+date= "2025-04-04"
+title="Class 32: To Infinity"
+slug="class32"
 +++
 
 ## Schedule
 
-- **Test 3** will be in class on Wednesday, 2 April. See the 
-[**Preparation Guide for Test 3**](/docs/preptest3.pdf) for practice problems, and send me a DM for any topics or problems you want covered in the review class on Monday.
-- The TAs will hold a review session **today (Monday), 5:00-6:30pm** in **Olsson 009**.
+- - **Problem Set 7** is due on Thursday, April 10, 8:29pm: Will be released soon <!--[[PDF](/docs/ps6.pdf)] [[Template](https://www.overleaf.com/read/yjrqbnkbypmv#6bb8bc)]  -->
 
 ## Class
 
-- Review for Test 3
-- Practice Problems
-- Flavors of Induction
+- Infinite Sets
+- Cardinality of Infinite Sets
+- Countable Sets
 
-10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/9ysfnm0dohknnide6wzhu/cs2120-class30-dave.pdf?rlkey=83omsv0ztc8efcu5jjwpl41kj&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5ff5c5b0-bdc3-4610-b492-b2b100e68920)]  
-2pm Section: [[Slides (PDF)](https://virginia.box.com/s/ujhi2h087avl3cenku5bk1a5wkv91iw1)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7353c817-3a6f-4847-ae40-b2b101288d76)]
+10am Section: [[Slides (PDF) Will be uploaded soon]()] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ee7c5a57-5117-454b-a0b8-b2b500e677bf)]  
+2pm Section: [[Slides (PDF)](https://virginia.box.com/s/c0zp6yjcfm2cdpbs3e0ub9iun7if9g9z)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e69764de-a6c5-4f90-80fb-b2b5012931c7)]
