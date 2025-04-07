@@ -17,5 +17,4 @@ slug="class33"
 - The Integers are Countably Infinite
 
 10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/b51tazjc9yvt7at604rzk/cs2120-class33-dave.pdf?rlkey=tmqjackax53o14zh0iq3u7djb&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f4dd965-b6ea-4a7d-bc21-b2b800e68f63)]  
-<!-- 2pm Section: [[Slides (PDF)](https://virginia.box.com/s/c0zp6yjcfm2cdpbs3e0ub9iun7if9g9z)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e69764de-a6c5-4f90-80fb-b2b5012931c7)]
--->
+2pm Section: [[Slides (PDF)](https://virginia.box.com/s/xt9pd156ehhw3a6z0jm2isnwn3f48k47)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ab5890d3-c1bf-4477-864c-b2b80128dba6)]
