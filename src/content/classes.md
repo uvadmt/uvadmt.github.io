@@ -136,3 +136,16 @@ title="Classes"
 - Review for Test 3
 - Practice Problems
 - Flavors of Induction
+
+Class 31: Test 3
+
+[Class 32: Infinite Sets](/post/class32)
+- Infinite Sets
+- Cardinality of infinite sets
+- Countable Sets
+
+[Class 33: Countably Infinite Sets](/post/class33)
+- Infinite and Countable Sets
+- Review of Binary Relations
+- All Finite Sets are Countable
+- The Integers are Countably Infinite
