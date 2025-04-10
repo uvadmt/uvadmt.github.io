@@ -149,3 +149,8 @@ Class 31: Test 3
 - Review of Binary Relations
 - All Finite Sets are Countable
 - The Integers are Countably Infinite
+
+[Class 34: Beyond Countable Infinities](/post/class34)
+- \\( \mathbb{N} \times \mathbb{N} \\) and \\( \mathbb{Q} \\) are Countably Infinite
+- Finite and Infinite Binary Strings
+- Uncountably Infinite

@@ -11,8 +11,8 @@ slug="class34"
 
 ## Class
 
-- N X N / Q are Countably Infinite
-- Infinite Binary Strings
+- \\( \mathbb{N} \times \mathbb{N} \\) and \\( \mathbb{Q} \\) are Countably Infinite
+- Binary Strings
 - Uncountably Infinite
 
 10am Section: [[Slides (PDF)](https://virginia.box.com/s/mmce3krqd8q7zfzx3jsxfimd631cl332)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9fc96412-6bfd-47fe-b20c-b2ba00e6e1c2)]  
