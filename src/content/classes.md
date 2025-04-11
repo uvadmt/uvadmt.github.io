@@ -154,3 +154,9 @@ Class 31: Test 3
 - \\( \mathbb{N} \times \mathbb{N} \\) and \\( \mathbb{Q} \\) are Countably Infinite
 - Finite and Infinite Binary Strings
 - Uncountably Infinite
+
+[Class 35: Cantor's Paradise](/post/class35)
+- Potential and Actual Infinities
+- English is a Disaster
+- Definiting Infinite, Countable, Uncountable, Countably Infinite
+- Proofs of Countability and Uncountability
