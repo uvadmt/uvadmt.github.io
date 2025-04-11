@@ -6,29 +6,32 @@
     <description>Recent content on cs2120: Discrete Mathematics and Theory 1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Class 34: Countable/Uncountable Infinite Sets</title>
-      <link>https://uvadmt.github.io/post/class34/</link>
-      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      <title>Class 35: Cantor&#39;s Paradise</title>
+      <link>https://uvadmt.github.io/post/class35/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://uvadmt.github.io/post/class34/</guid>
+      <guid>https://uvadmt.github.io/post/class35/</guid>
       <description>
         
           
             &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Problem Set 7&lt;/strong&gt; is due before &lt;strong&gt;8:29pm&lt;/strong&gt; on
-&lt;strong&gt;Thursday, 10 April&lt;/strong&gt;: [&lt;a href=&#34;https://uvadmt.github.io/docs/ps7.pdf&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;https://www.overleaf.com/read/rypcqjdgmvsy#273e12&#34;&gt;Template&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Problem Set 8&lt;/strong&gt; will be posted soon and is due before &lt;strong&gt;8:29pm&lt;/strong&gt; on
+&lt;strong&gt;Thursday, 17 April&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;class&#34;&gt;Class&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;\( \mathbb{N} \times \mathbb{N} \) and \( \mathbb{Q} \) are Countably Infinite&lt;/li&gt;
-&lt;li&gt;Binary Strings&lt;/li&gt;
-&lt;li&gt;Uncountably Infinite&lt;/li&gt;
+&lt;li&gt;Potential and Actual Infinities&lt;/li&gt;
+&lt;li&gt;Cantor vs. Aristotle, Aristotle, Kronecker, Poincaré, St. Thomas Aquinas, Pope Leo XIII, etc.&lt;/li&gt;
+&lt;li&gt;English is a Disaster&lt;/li&gt;
+&lt;li&gt;Definiting Infinite, Countable, Uncountable, Countably Infinite&lt;/li&gt;
+&lt;li&gt;Proofs of Countability and Uncountability&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;10am Section: [&lt;a href=&#34;https://virginia.box.com/s/mmce3krqd8q7zfzx3jsxfimd631cl332&#34;&gt;Slides (PDF)&lt;/a&gt;] [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9fc96412-6bfd-47fe-b20c-b2ba00e6e1c2&#34;&gt;Video&lt;/a&gt;]&lt;br&gt;
-2pm Section: [&lt;a href=&#34;https://virginia.box.com/s/d8l83oh5kdar114vgo5g2vpthv3nlhss&#34;&gt;Slides (PDF)&lt;/a&gt;] [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1f606b31-4775-443f-9a54-b2ba0128e947&#34;&gt;Video&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;10am Section: [&lt;a href=&#34;https://www.dropbox.com/scl/fi/is1elmr3b32hw56hcy9sm/cs2120-class35-dave.pdf?rlkey=9ndtpdv2n34t3q9gnjbphrz6u&amp;amp;dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;] [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=334d9999-eac1-4273-a347-b2bc00e6ad6b&#34;&gt;Video&lt;/a&gt;]&lt;/p&gt;
+&lt;!-- 2pm Section: [[Slides (PDF)](https://virginia.box.com/s/d8l83oh5kdar114vgo5g2vpthv3nlhss)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1f606b31-4775-443f-9a54-b2ba0128e947)]  
+--&gt;
           
           
         
