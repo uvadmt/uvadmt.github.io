@@ -6,8 +6,8 @@ slug="class35"
 
 ## Schedule
 
-- **Problem Set 8** will be posted soon and is due before **8:29pm** on
-**Thursday, 17 April**. 
+- **Problem Set 8** is now posted and is due before **8:29pm** on
+**Thursday, 17 April**: [[PDF](/docs/ps8.pdf)] [[Template](https://www.overleaf.com/read/kvgvzvcddmbg#0a0ff9)]
 
 ## Class
 
