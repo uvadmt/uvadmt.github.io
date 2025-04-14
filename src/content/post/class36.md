@@ -1,0 +1,23 @@
++++
+date= "2025-04-14"
+title="Class 36: Proving Uncountability"
+slug="class36"
++++
+
+## Schedule
+
+- **Problem Set 8** is now posted and is due before **8:29pm** on
+**Thursday, 17 April**: [[PDF](/docs/ps8.pdf)] [[Template](https://www.overleaf.com/read/kvgvzvcddmbg#0a0ff9)]
+
+## Class
+
+- Explaining the Rest of the Semester
+- Proofs of Uncountability
+- Diagonalization Proofs
+- Cantor's Diagonalization Proof (1891)
+
+For the story behind the book and high quality scan, see [_Cantor's (No Longer) Lost Proof_](https://uvasrg.github.io/cantors-no-longer-lost-proof/).
+
+10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/u41ahhuhf5aqr87irq9vl/cs2120-class36-dave.pdf?rlkey=whabl1i4h77vb6ohj7m4ac7fu&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d30b8bc9-4cd6-4a29-9884-b2bf00e69b4a)]  
+<!-- 2pm Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/pz4emxnmak1obxolbn801/cs2120-class35-2pm.pdf?rlkey=kinie4ti35yay08f4xyhnki0r&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bef4b491-0fc9-4779-a3f2-b2bc01287ade)]  
+-->

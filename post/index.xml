@@ -6,7 +6,38 @@
     <description>Recent content in Posts on cs2120: Discrete Mathematics and Theory 1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 36: Proving Uncountability</title>
+      <link>https://uvadmt.github.io/post/class36/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvadmt.github.io/post/class36/</guid>
+      <description>
+        
+          
+            &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Problem Set 8&lt;/strong&gt; is now posted and is due before &lt;strong&gt;8:29pm&lt;/strong&gt; on
+&lt;strong&gt;Thursday, 17 April&lt;/strong&gt;: [&lt;a href=&#34;https://uvadmt.github.io/docs/ps8.pdf&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;https://www.overleaf.com/read/kvgvzvcddmbg#0a0ff9&#34;&gt;Template&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;class&#34;&gt;Class&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Explaining the Rest of the Semester&lt;/li&gt;
+&lt;li&gt;Proofs of Uncountability&lt;/li&gt;
+&lt;li&gt;Diagonalization Proofs&lt;/li&gt;
+&lt;li&gt;Cantor&amp;rsquo;s Diagonalization Proof (1891)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For the story behind the book and high quality scan, see &lt;a href=&#34;https://uvasrg.github.io/cantors-no-longer-lost-proof/&#34;&gt;&lt;em&gt;Cantor&amp;rsquo;s (No Longer) Lost Proof&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;10am Section: [&lt;a href=&#34;https://www.dropbox.com/scl/fi/u41ahhuhf5aqr87irq9vl/cs2120-class36-dave.pdf?rlkey=whabl1i4h77vb6ohj7m4ac7fu&amp;amp;dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;] [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d30b8bc9-4cd6-4a29-9884-b2bf00e69b4a&#34;&gt;Video&lt;/a&gt;]&lt;/p&gt;
+&lt;!-- 2pm Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/pz4emxnmak1obxolbn801/cs2120-class35-2pm.pdf?rlkey=kinie4ti35yay08f4xyhnki0r&amp;dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bef4b491-0fc9-4779-a3f2-b2bc01287ade)]  
+--&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Class 35: Cantor&#39;s Paradise</title>
       <link>https://uvadmt.github.io/post/class35/</link>
