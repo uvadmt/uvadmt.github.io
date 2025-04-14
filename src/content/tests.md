@@ -15,3 +15,9 @@ title="Tests"
 [Preparation Guide](/docs/preptest2.pdf)  
 [Test 2](/docs/test2.pdf)  
 [Test 2 Comments](/docs/test2-comments.pdf)
+
+## Test 3
+
+[Preparation Guide](/docs/preptest3.pdf)  
+[Test 3](/docs/test3.pdf)  
+[Test 3 Comments](/docs/test3-comments.pdf)
