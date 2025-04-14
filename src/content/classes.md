@@ -160,3 +160,9 @@ Class 31: Test 3
 - English is a Disaster
 - Definiting Infinite, Countable, Uncountable, Countably Infinite
 - Proofs of Countability and Uncountability
+
+[Class 36: Proving Uncountability](/post/class36)
+- Explaining the Rest of the Semester
+- Proofs of Uncountability
+- Diagonalization Proofs
+- Cantor's Diagonalization Proof (1891)
