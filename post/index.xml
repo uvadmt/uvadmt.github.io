@@ -6,7 +6,38 @@
     <description>Recent content in Posts on cs2120: Discrete Mathematics and Theory 1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://uvadmt.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 37: Power of Uncountability</title>
+      <link>https://uvadmt.github.io/post/class37/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://uvadmt.github.io/post/class37/</guid>
+      <description>
+        
+          
+            &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Problem Set 8&lt;/strong&gt; is now posted and is due before &lt;strong&gt;8:29pm&lt;/strong&gt; on
+&lt;strong&gt;Thursday, 17 April&lt;/strong&gt;: [&lt;a href=&#34;https://uvadmt.github.io/docs/ps8.pdf&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;https://www.overleaf.com/read/kvgvzvcddmbg#0a0ff9&#34;&gt;Template&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Test 4&lt;/strong&gt; will be in class on Wednesday, 23 April.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;class&#34;&gt;Class&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Review: Proving Uncountability&lt;/li&gt;
+&lt;li&gt;Infinite Binary Strings (recap)&lt;/li&gt;
+&lt;li&gt;\( \pow(\mathbb{N}) \)&lt;/li&gt;
+&lt;li&gt;Python programs&lt;/li&gt;
+&lt;li&gt;Real numbers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;10am Section: [&lt;a href=&#34;https://www.dropbox.com/scl/fi/o5tec5e2ctirhmvvl6ugx/cs2120-class37-dave.pdf?rlkey=2ey1oe9mhq1a42qf58k3wq9yq&amp;amp;dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;] [&lt;a href=&#34;https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a1804545-832f-43e5-9f20-b2c100e6caa7&#34;&gt;Video&lt;/a&gt;]&lt;/p&gt;
+&lt;!-- 2pm Section: [[Slides (PDF)](https://virginia.box.com/s/d3sx0m0jv11x9zmwykb4whnys8n27nm1)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9fcadc68-319f-452e-8845-b2bf0128d2ad)]  --&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Class 36: Proving Uncountability</title>
       <link>https://uvadmt.github.io/post/class36/</link>

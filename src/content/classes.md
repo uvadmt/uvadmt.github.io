@@ -166,3 +166,10 @@ Class 31: Test 3
 - Proofs of Uncountability
 - Diagonalization Proofs
 - Cantor's Diagonalization Proof (1891)
+
+[Class 37: Power of Uncountability](/post/class37)
+- Review: Proving Uncountability
+- Infinite Binary Strings (recap)
+- \\( \pow(\mathbb{N}) \\)
+- Python programs
+- Real numbers
