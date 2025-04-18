@@ -173,3 +173,8 @@ Class 31: Test 3
 - \\( \pow(\mathbb{N}) \\)
 - Python programs
 - Real numbers
+
+[Class 38: Cantor's Theorem](/post/class38)
+- Uncountability of the Real Numbers
+- Cantor's Theorem
+- Proving Cantor's Theorem
