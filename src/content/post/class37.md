@@ -19,4 +19,4 @@ slug="class37"
 - Real numbers
 
 10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/o5tec5e2ctirhmvvl6ugx/cs2120-class37-dave.pdf?rlkey=2ey1oe9mhq1a42qf58k3wq9yq&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a1804545-832f-43e5-9f20-b2c100e6caa7)]  
-<!-- 2pm Section: [[Slides (PDF)](https://virginia.box.com/s/d3sx0m0jv11x9zmwykb4whnys8n27nm1)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9fcadc68-319f-452e-8845-b2bf0128d2ad)]  -->
+2pm Section: [[Slides (PDF)](https://virginia.box.com/s/sjahz29dxvqkurm3ewnzl34fgeiot3l5)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fa425ab0-e5d7-4e38-a70e-b2c1016c59a0)]
