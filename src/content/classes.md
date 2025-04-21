@@ -178,3 +178,7 @@ Class 31: Test 3
 - Uncountability of the Real Numbers
 - Cantor's Theorem
 - Proving Cantor's Theorem
+
+[Class 39: Review](/post/class39)
+- Completing Proof of Cantor's Theorem
+- Review for Test 4
