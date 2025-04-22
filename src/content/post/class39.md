@@ -14,5 +14,4 @@ slug="class39"
 - Review for Test 4
 
 10am Section: [[Slides (PDF)](https://www.dropbox.com/scl/fi/jwevkm1ajtftyel7mbd6u/cs2120-class39-dave.pdf?rlkey=l4tg69cl0kzegy83sqj9a7tyq&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cb4dcdb9-e8d0-4d1c-906e-b2c600e69189)]  
-<!--
-2pm Section: [[Slides (PDF)](https://virginia.box.com/s/f2mgl4yidxqs4o8ff9ydn17javhi4ge3)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=012bd399-4793-4f0b-8af7-b2c30149c708)]-->
+2pm Section: [[Slides (PDF)](https://virginia.box.com/s/vox6g5gvk6jhls9z0u3398uec56m4rwp)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef2c3b68-41d7-4442-889e-b2c60128c611)]
