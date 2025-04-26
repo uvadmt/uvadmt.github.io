@@ -182,3 +182,11 @@ Class 31: Test 3
 [Class 39: Review](/post/class39)
 - Completing Proof of Cantor's Theorem
 - Review for Test 4
+
+Class 40: Test 4
+
+[Class 41: Discrete Math on Trial](/post/class41)
+- All _Math_ is _Discrete Math_
+- What is Math?
+- From Sets to Reals
+- Privacy and Probabilities
