@@ -170,7 +170,7 @@ Class 31: Test 3
 [Class 37: Power of Uncountability](/post/class37)
 - Review: Proving Uncountability
 - Infinite Binary Strings (recap)
-- \\( \pow(\mathbb{N}) \\)
+- \\( pow(\mathbb{N}) \\)
 - Python programs
 - Real numbers
 

@@ -26,7 +26,7 @@
 &lt;li&gt;What is Math?&lt;/li&gt;
 &lt;li&gt;From Sets to Reals&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/7lk1elwgrp3u1rn81wxsl/cs2120-class41-post.pdf?rlkey=ik401emqaayxal5ojk68yt46f&amp;amp;dl=0&#34;&gt;[Slides] (PDF)&lt;/a&gt; (No video for today)&lt;/p&gt;
+&lt;p&gt;Both sections: [&lt;a href=&#34;https://www.dropbox.com/scl/fi/7lk1elwgrp3u1rn81wxsl/cs2120-class41-post.pdf?rlkey=ik401emqaayxal5ojk68yt46f&amp;amp;dl=0&#34;&gt;Slides (PDF)&lt;/a&gt;] (No video for today)&lt;/p&gt;
 &lt;p&gt;I removed some slides from the posted slides from what was done in class, but there are many public materials posted on the &lt;a href=&#34;https://www.justice.gov/atr/us-and-plaintiff-states-v-google-llc-2020-remedies-hearing-exhibits&#34;&gt;DOJ&amp;rsquo;s Website&lt;/a&gt;, including &lt;a href=&#34;https://www.justice.gov/atr/media/1397911/dl?inline&#34;&gt;my demonstrative slides&lt;/a&gt; (the equation we talked about is on slide 17).&lt;/p&gt;
           
           
@@ -106,7 +106,7 @@
 &lt;ul&gt;
 &lt;li&gt;Review: Proving Uncountability&lt;/li&gt;
 &lt;li&gt;Infinite Binary Strings (recap)&lt;/li&gt;
-&lt;li&gt;\( \pow(\mathbb{N}) \)&lt;/li&gt;
+&lt;li&gt;\( pow(\mathbb{N}) \)&lt;/li&gt;
 &lt;li&gt;Python programs&lt;/li&gt;
 &lt;li&gt;Real numbers&lt;/li&gt;
 &lt;/ul&gt;

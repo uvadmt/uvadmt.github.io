@@ -14,6 +14,6 @@ slug="class41"
 - What is Math?
 - From Sets to Reals
 
-[[Slides] (PDF)](https://www.dropbox.com/scl/fi/7lk1elwgrp3u1rn81wxsl/cs2120-class41-post.pdf?rlkey=ik401emqaayxal5ojk68yt46f&dl=0) (No video for today)
+Both sections: [[Slides (PDF)](https://www.dropbox.com/scl/fi/7lk1elwgrp3u1rn81wxsl/cs2120-class41-post.pdf?rlkey=ik401emqaayxal5ojk68yt46f&dl=0)] (No video for today)
 
 I removed some slides from the posted slides from what was done in class, but there are many public materials posted on the [DOJ's Website](https://www.justice.gov/atr/us-and-plaintiff-states-v-google-llc-2020-remedies-hearing-exhibits), including [my demonstrative slides](https://www.justice.gov/atr/media/1397911/dl?inline) (the equation we talked about is on slide 17).
