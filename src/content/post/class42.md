@@ -1,19 +1,21 @@
 +++
-date= "2025-04-25"
-title="Class 41: Discrete Math on Trial"
-slug="class41"
+date= "2025-04-28"
+title="Class 42: Ask Me Anything"
+slug="class42"
 +++
 
 ## Schedule
 
-- We are working hard to finish grading Test 4 as quickly as possible, and will provide details on the in-person final opportunity in class on Monday. If you want to start preparing for an anticipated final, reviewing [Tests 1-3](/tests) (including our posted comments) would certainly be worthwhile.
+See the posted slides for details on the Final Opportunity.
 
 ## Class
 
-- All _Math_ is _Discrete Math_
-- What is Math?
-- From Sets to Reals
+- Details on the Final Opportunity
+- Solving the Test 3 Comments Challenge Problem
+- My Favorite Comic Books
+  o [_Dori-Mic and the Universal Machine! A Tragicomic Tale of Combinatorics and Computability for Curious Children of All Ages_](https://www.dori-mic.org/) 
+  o [_Logicomix: An Epic Search for Truth_](https://en.wikipedia.org/wiki/Logicomix)
+- If you want to try the censorship steering demo, you can try it yourself here: [https://mightbeevil.com/censorship](https://mightbeevil.com/censorship). There is also a demo of the refusal-compliance steering: [https://hannahcyberey-refusal-censorship-steering.hf.space/](https://hannahcyberey-refusal-censorship-steering.hf.space/) (this requires a free Huggingface account to use, but no account is needed for the censorship demo).
 
-Both sections: [[Slides (PDF)](https://www.dropbox.com/scl/fi/7lk1elwgrp3u1rn81wxsl/cs2120-class41-post.pdf?rlkey=ik401emqaayxal5ojk68yt46f&dl=0)] (No video for today)
+[[Slides (PDF)](https://www.dropbox.com/scl/fi/7fc1zqcxr3xkdzwg9v14m/cs2120-class42.pdf?rlkey=d371gydbb0tt8e5s25sqrfjnc&dl=0)] [[Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8af0e19f-60e4-4c54-8b3b-b2cd00e6ef9e)]
 
-I removed some slides from the posted slides from what was done in class, but there are many public materials posted on the [DOJ's Website](https://www.justice.gov/atr/us-and-plaintiff-states-v-google-llc-2020-remedies-hearing-exhibits), including [my demonstrative slides](https://www.justice.gov/atr/media/1397911/dl?inline) (the equation we talked about is on slide 17).
