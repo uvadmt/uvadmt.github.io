@@ -190,3 +190,9 @@ Class 40: Test 4
 - What is Math?
 - From Sets to Reals
 - Privacy and Probabilities
+
+[Class 42: Ask Me Anything](/post/class42)
+- Details on the Final Opportunity
+- Solving the Test 3 Comments Challenge Problem
+- My Favorite Comic Books
+- Censorship Steering
