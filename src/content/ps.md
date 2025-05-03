@@ -17,4 +17,3 @@ title="Problem Sets"
 (Note: solutions to problem sets were shared in the class discord, and are available on request.)
 
 Problem Set &omega;: [Colab Notebook](/post/psomega) 
-

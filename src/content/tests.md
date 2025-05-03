@@ -21,3 +21,9 @@ title="Tests"
 [Preparation Guide](/docs/preptest3.pdf)  
 [Test 3](/docs/test3.pdf)  
 [Test 3 Comments](/docs/test3-comments.pdf)
+
+## Test 4
+
+[Preparation Guide](/docs/preptest4.pdf)  
+[Test 4](/docs/test4.pdf)  
+[Test 4 Comments](/docs/test4-comments.pdf)
